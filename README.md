@@ -1,19 +1,19 @@
 # Public Sector Size and Governance: A Cross-National Panel Study (2000–2019)
 _Mapping the relationship between bureaucracy, governance quality, and development across 150+ countries._
 
-## 📄 Abstract
+## Abstract
 This project investigates how the size of the public sector—measured by employment share—interacts with institutional governance quality and economic performance across 150+ countries from 2000 to 2019. Leveraging World Governance Indicators, World Bank development data, IMF macro forecasts, and ILO employment statistics, we visualize regional trajectories, conduct focused case analysis on East Asia & Pacific, and estimate fixed‑effects panel models to quantify lagged public sector impacts on governance outcomes. The analysis reveals that the relationship between public sector size and governance effectiveness is modest, heterogeneous, and shaped by regional and income-level context.
 
 ---
 
-## ❓ Key Research Questions
+## Key Research Questions
 - **RQ1**: How does public sector employment share relate to governance effectiveness across global regions?
 - **RQ2**: What lag structure best captures the temporal impact of public sector size on subsequent changes in governance quality?
 - **RQ3**: Within the East Asia & Pacific region, how is bureaucratic scale associated with governance effectiveness and economic performance?
 - **RQ4**: Are the effects of public sector size on governance nonlinear or context-dependent across regions with varying institutional capacity?
 ---
 
-## 1. 🔎 Analytical Framework and Objectives
+## Analytical Framework and Objectives
 
 This repository presents a regionally focused analysis of how public sector scale—measured by government employment share—relates to governance quality and economic outcomes across 150+ countries from 2000 to 2019. Grounded in public administration theory and empirical governance research, the project uses descriptive, visual, and statistical tools to explore the temporal and structural dynamics of bureaucratic impact.
 
@@ -25,7 +25,7 @@ This repository presents a regionally focused analysis of how public sector scal
 
 ---
 
-## 2. 📦 Data Sources and Acquisition
+## Data Sources and Acquisition
 
 ⚠️ _Note: Raw data files are not included in this repository. To reproduce the analysis, please download the following datasets manually from the official sources._
 
@@ -39,7 +39,7 @@ This repository presents a regionally focused analysis of how public sector scal
 
 ---
 
-## 3. 🗂️ Repository Architecture
+## Repository Architecture
 
 ```plaintext
 ├── Figures/
@@ -65,13 +65,13 @@ This repository presents a regionally focused analysis of how public sector scal
 ├── requirements.txt
 ```
 
-## 4. 📈 Key Results
+## Key Results
 
 This section presents the core findings of the analysis, supported by visualizations that trace how **public sector employment**, **governance quality**, and **economic performance** interact across regions. Taken together, the results suggest that while **bureaucratic scale** varies widely across regions, its relationship with governance is *modest* and *highly context-dependent*.
 
 ---
 
-### 🌐 Regional Patterns in Governance and Bureaucracy
+### Regional Patterns in Governance and Bureaucracy
 
 #### 🟦 Public Sector Employment Share by Region (2000–2019)
 This line plot shows how the **size of the public sector** varies sharply across regions. *Europe & Central Asia* and *North America* maintain **consistently higher public employment shares** (20–25%), while regions like *South Asia* and *East Asia & Pacific* exhibit **leaner bureaucratic footprints**. These differences form the structural foundation for exploring whether *“more government”* correlates with *stronger institutions*.
@@ -87,7 +87,7 @@ This multi-line plot shows the evolution of **all six Worldwide Governance Indic
 
 ---
 
-### 🌏 East Asia & Pacific Case Study
+### East Asia & Pacific Case Study
 
 #### 🟩 East Asia vs World – Governance Effectiveness
 *East Asia & Pacific* shows a **steady upward trend** in **governance effectiveness**, gradually *converging with the global average*. This case highlights how *institutional improvement* is possible even with *relatively lean public sectors*, challenging the assumption that **size alone determines effectiveness**.
@@ -103,7 +103,7 @@ Compared to governance, **public employment share** shows a **stronger associati
 
 ---
 
-### 📉 Panel Regression Findings
+### Panel Regression Findings
 
 #### 🟥 Lagged Public Employment Effects on Governance
 The **fixed-effects panel model** estimates the effect of **public sector size** on **governance effectiveness**, using *lagged independent variables* to reduce *simultaneity bias*. Results show **small, statistically insignificant coefficients** across all lag structures. This suggests that in the *short-to-medium run*, **increasing public employment alone** does *not systematically improve governance outcomes* across countries.
@@ -111,14 +111,14 @@ The **fixed-effects panel model** estimates the effect of **public sector size**
 
 ---
 
-### 🗺️ Spatial Governance Trends
+### Spatial Governance Trends
 
 #### 🗺️ Interactive Choropleth: Government Effectiveness Over Time
 This **dynamic HTML choropleth** tracks **governance effectiveness** from *2000 to 2019*. It highlights *rising scores* in parts of *East Asia* and *Latin America*, contrasted with *persistent challenges* in *Sub-Saharan Africa* and *South Asia*. These **spatial patterns** reinforce the **region-specific nature** of *institutional trajectories*.
 
 🔗 [Click here to view the interactive choropleth](Figures/government_effectiveness_over_time.html)
 
-## 5. 🧠 Discussion
+## Discussion
 
 The analysis reveals that the relationship between public sector size and governance quality is highly heterogeneous and context-dependent. While regions like East Asia & Pacific show modest positive associations between bureaucratic scale and governance outcomes, cross-country panel regressions suggest that increasing public employment alone does not guarantee institutional improvement.
 
@@ -131,25 +131,25 @@ The weak short-run causal effects also suggest that reforms aimed at expanding s
 
 Taken together, the results invite a more nuanced debate on optimal public sector size—one that balances fiscal constraints, governance goals, and development context.
 
-## 6. 🏛️ Policy Implications
+## Policy Implications
 
 Policymakers seeking to strengthen governance should view public sector size not as an end in itself, but as a lever that depends on context and institutional quality. Rather than expanding bureaucracy indiscriminately, investments should focus on building competent, accountable, and mission-driven public workforces—particularly in regions where governance lags despite low employment shares. Strategic recruitment, civil service reform, and performance-based management may yield greater institutional dividends than changes in scale alone.
 
-## 7. ✅ Conclusion
-
-This project underscores the complexity of the relationship between public sector scale and governance quality. While some regions exhibit modest positive associations, the broader empirical evidence suggests that bureaucratic expansion alone is not a reliable pathway to stronger institutions. Effective governance appears to depend not just on the size of the state, but on how public resources are structured, managed, and held accountable. These findings call for deeper, context-aware reforms aimed at building capable and responsive state institutions.
-
-## 8. 🔮 Future Directions
+## Future Directions
 
 This project offers a foundational view of how public sector size relates to governance effectiveness across regions, but several extensions remain possible. Future work could incorporate subnational data to assess within-country variation, explore non-linear or threshold dynamics using interaction terms, and apply causal inference techniques such as instrumental variables or event studies. In addition, comparative case studies could illuminate how administrative capacity evolves over time in relation to political regimes, fiscal constraints, or external shocks such as pandemics or debt crises.
 
-## 9. 🔁 How to Reproduce the Code
+## Conclusion
+
+This project underscores the complexity of the relationship between public sector scale and governance quality. While some regions exhibit modest positive associations, the broader empirical evidence suggests that bureaucratic expansion alone is not a reliable pathway to stronger institutions. Effective governance appears to depend not just on the size of the state, but on how public resources are structured, managed, and held accountable. These findings call for deeper, context-aware reforms aimed at building capable and responsive state institutions.
+
+## How to Reproduce the Code
 
 Follow these steps to replicate the entire pipeline from raw data to final figures and regression outputs.
 
 ---
 
-### 🧱 Clone the Repository
+### Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/government-efficiency-project.git
@@ -159,7 +159,7 @@ cd government-efficiency-project
 ---
 
 
-### 📦 Install Dependencies
+### Step 2: Install Dependencies
 
 ```bash
 pip install --upgrade pip
@@ -170,7 +170,7 @@ pip install -r requirements.txt
 
 ---
 
-### 📁 Prepare Raw Data Files
+### Step 3: Prepare Raw Data Files
 
 1. Create a folder named `data/` in the project root.
 2. Download and save the following files **with exact filenames**:
@@ -185,7 +185,7 @@ pip install -r requirements.txt
 
 ---
 
-### ⚙️ Run the Data Cleaning and Consolidation Script
+### Step 4: Run the Data Cleaning and Consolidation Script
 
 ```bash
 python clean_and_build_master_panel.py
@@ -200,7 +200,7 @@ All output files will be saved in the `Output/` directory and used for subsequen
 
 ---
 
-### 📊 Run the Analysis Script
+### Step 5: Run the Analysis Script
 
 ```bash
 python analysis.py
@@ -212,7 +212,7 @@ This will generate:
 
 ---
 
-### 🔍 Review Outputs
+### Step 6: Review Outputs
 
 - Open the interactive choropleth map:  
   `Figures/government_effectiveness_over_time.html`
