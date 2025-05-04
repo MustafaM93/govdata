@@ -1,0 +1,1028 @@
+Country_Code,Year,Private,Public,Public_Sector_Employment_Share,Country_Name,Region,Income_Group
+AFG,2008,7041.465,445.099,0.0594530414753684,Afghanistan,South Asia,Low income
+AFG,2012,5739.954,679.662,0.10587268771216223,Afghanistan,South Asia,Low income
+AFG,2014,6280.575,722.463,0.10316422672560109,Afghanistan,South Asia,Low income
+AFG,2017,5747.701,648.833,0.10143508969076065,Afghanistan,South Asia,Low income
+AGO,2004,3501.453,969.965,0.21692559273143333,Angola,Sub-Saharan Africa,Lower middle income
+AGO,2009,4726.115,853.449,0.15295980116009064,Angola,Sub-Saharan Africa,Lower middle income
+AGO,2011,5859.531,930.876,0.13708692277208126,Angola,Sub-Saharan Africa,Lower middle income
+AGO,2014,4521.472,770.83,0.14565117410155357,Angola,Sub-Saharan Africa,Lower middle income
+AGO,2019,9232.634,980.726,0.09602383544690483,Angola,Sub-Saharan Africa,Lower middle income
+ALB,2007,797.675,180.297,0.18435803888045874,Albania,Europe & Central Asia,Upper middle income
+ALB,2008,920.452,202.703,0.18047642578272813,Albania,Europe & Central Asia,Upper middle income
+ALB,2009,968.396,192.112,0.16554129743181434,Albania,Europe & Central Asia,Upper middle income
+ALB,2010,981.326,185.915,0.1592773043441757,Albania,Europe & Central Asia,Upper middle income
+ALB,2011,994.332,165.139,0.14242615813590853,Albania,Europe & Central Asia,Upper middle income
+ALB,2012,964.827,169.019,0.14906698087747366,Albania,Europe & Central Asia,Upper middle income
+ALB,2013,851.57,172.571,0.16850316509152546,Albania,Europe & Central Asia,Upper middle income
+ALB,2014,850.043,174.091,0.16998849759894702,Albania,Europe & Central Asia,Upper middle income
+ALB,2015,907.502,174.46,0.16124411023677357,Albania,Europe & Central Asia,Upper middle income
+ALB,2016,977.823,173.13,0.15042317105911363,Albania,Europe & Central Asia,Upper middle income
+ALB,2017,1004.698,187.036,0.15694441880486754,Albania,Europe & Central Asia,Upper middle income
+ALB,2018,1043.644,185.313,0.1507888396420705,Albania,Europe & Central Asia,Upper middle income
+ALB,2019,1082.062,182.608,0.14439181762831413,Albania,Europe & Central Asia,Upper middle income
+ARE,2017,6472.666,768.288,0.10610314607716055,United Arab Emirates,Middle East & North Africa,High income
+ARE,2018,6611.795,613.51,0.08491129440210482,United Arab Emirates,Middle East & North Africa,High income
+ARE,2019,6625.668,762.647,0.10322340073480897,United Arab Emirates,Middle East & North Africa,High income
+ARG,2004,7555.517,1699.207,0.18360428684853272,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2005,7890.308,1635.245,0.17166929835989575,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2006,8262.831,1663.214,0.16756059437570553,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2008,8689.756,1590.049,0.15467696128477146,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2009,8743.554,1658.324,0.1594254422134157,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2010,8842.574,1689.351,0.16040287032047798,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2011,9016.853,1748.881,0.16244883999548942,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2012,9034.754,1808.812,0.16680970079400076,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2013,9139.484,1803.364,0.16479841445298335,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2014,9145.938,1901.285,0.17210524310046063,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2017,9536.84,2031.377,0.17559983530737708,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2018,9721.528,2023.17,0.17226241151539187,Argentina,Latin America & Caribbean,Upper middle income
+ARG,2019,10008.492,2032.642,0.16880818700298494,Argentina,Latin America & Caribbean,Upper middle income
+ARM,2007,760.762,348.488,0.31416542709037637,Armenia,Europe & Central Asia,Upper middle income
+ARM,2008,698.491,309.328,0.30692812895966437,Armenia,Europe & Central Asia,Upper middle income
+ARM,2009,765.326,324.509,0.2977597526231035,Armenia,Europe & Central Asia,Upper middle income
+ARM,2010,834.449,310.16,0.27097462976439995,Armenia,Europe & Central Asia,Upper middle income
+ARM,2011,837.947,287.842,0.25568023848163374,Armenia,Europe & Central Asia,Upper middle income
+ARM,2012,868.439,266.467,0.23479213256428286,Armenia,Europe & Central Asia,Upper middle income
+ARM,2013,866.593,252.519,0.2256422949624345,Armenia,Europe & Central Asia,Upper middle income
+ARM,2014,883.132,250.409,0.2209086393875475,Armenia,Europe & Central Asia,Upper middle income
+ARM,2015,812.36,260.283,0.24265575778707363,Armenia,Europe & Central Asia,Upper middle income
+ARM,2016,762.093,244.061,0.24256823508130962,Armenia,Europe & Central Asia,Upper middle income
+ARM,2017,764.17,247.555,0.2446860559934765,Armenia,Europe & Central Asia,Upper middle income
+ARM,2018,965.072,226.257,0.18991982903127516,Armenia,Europe & Central Asia,Upper middle income
+ARM,2019,901.022,235.973,0.20754093025914802,Armenia,Europe & Central Asia,Upper middle income
+ATG,2018,33.573,14.131,0.29622253899044104,Antigua and Barbuda,Latin America & Caribbean,High income
+AUS,2001,6948.464,2088.838,0.23113513302974717,Australia,East Asia & Pacific,High income
+AUS,2002,6992.502,2240.627,0.24267255445039268,Australia,East Asia & Pacific,High income
+AUS,2003,7036.32,2363.266,0.25142234987796275,Australia,East Asia & Pacific,High income
+AUS,2004,7276.168,2376.805,0.2462251785020014,Australia,East Asia & Pacific,High income
+AUS,2005,7408.225,2501.497,0.2524285746865553,Australia,East Asia & Pacific,High income
+AUS,2006,7557.039,2630.273,0.25819107140333,Australia,East Asia & Pacific,High income
+AUS,2007,7888.408,2604.48,0.24821383779184528,Australia,East Asia & Pacific,High income
+AUS,2008,7964.865,2842.995,0.26304883667997175,Australia,East Asia & Pacific,High income
+AUS,2009,7863.786,2986.442,0.2752423267050241,Australia,East Asia & Pacific,High income
+AUS,2010,7922.007,3184.082,0.28669696416083107,Australia,East Asia & Pacific,High income
+AUS,2011,8265.732,2936.043,0.2621051574415662,Australia,East Asia & Pacific,High income
+AUS,2012,8258.45,3081.72,0.27175253986492265,Australia,East Asia & Pacific,High income
+AUS,2013,8310.778,3105.952,0.27205268058366977,Australia,East Asia & Pacific,High income
+AUS,2014,8372.45,3147.324,0.2732105681934385,Australia,East Asia & Pacific,High income
+AUS,2015,8553.755,3252.298,0.2754771641292818,Australia,East Asia & Pacific,High income
+AUS,2016,8583.654,3311.453,0.27838782786905575,Australia,East Asia & Pacific,High income
+AUS,2017,8912.392,3363.03,0.2739645121772596,Australia,East Asia & Pacific,High income
+AUS,2018,9105.908,3468.726,0.2758510506150716,Australia,East Asia & Pacific,High income
+AUS,2019,9116.271,3672.132,0.28714547078317754,Australia,East Asia & Pacific,High income
+AUT,2004,3264.194,415.554,0.1129300158597817,Austria,Europe & Central Asia,High income
+AUT,2005,3358.7,392.801,0.10470502340263271,Austria,Europe & Central Asia,High income
+AUT,2006,3424.088,406.202,0.10604993355594484,Austria,Europe & Central Asia,High income
+AUT,2007,3501.259,426.176,0.10851255335861701,Austria,Europe & Central Asia,High income
+AUT,2008,3573.231,423.807,0.10603026541153723,Austria,Europe & Central Asia,High income
+AUT,2009,3567.792,418.154,0.10490709106445496,Austria,Europe & Central Asia,High income
+AUT,2010,3604.53,415.347,0.10332331063860907,Austria,Europe & Central Asia,High income
+AUT,2011,3650.618,404.002,0.09963991693426265,Austria,Europe & Central Asia,High income
+AUT,2012,3686.908,400.39,0.09795958112180712,Austria,Europe & Central Asia,High income
+AUT,2013,3718.698,388.213,0.09452676232818291,Austria,Europe & Central Asia,High income
+AUT,2014,3728.873,386.64,0.0939469757476164,Austria,Europe & Central Asia,High income
+AUT,2015,3761.794,388.709,0.09365346802544175,Austria,Europe & Central Asia,High income
+AUT,2016,3844.386,378.381,0.08960499122968422,Austria,Europe & Central Asia,High income
+AUT,2017,3882.324,380.384,0.0892352936208626,Austria,Europe & Central Asia,High income
+AUT,2018,3954.089,368.572,0.08526507167691383,Austria,Europe & Central Asia,High income
+AUT,2019,3991.788,367.108,0.08422040810333627,Austria,Europe & Central Asia,High income
+BDI,2014,3559.704,116.0,0.031558580342704416,Burundi,Sub-Saharan Africa,Low income
+BEN,2011,2856.379,114.456,0.03852654220109834,Benin,Sub-Saharan Africa,Lower middle income
+BEN,2013,2877.9,57.09,0.019451514315210614,Benin,Sub-Saharan Africa,Lower middle income
+BEN,2019,4313.536,125.277,0.028223085766397458,Benin,Sub-Saharan Africa,Lower middle income
+BFA,2018,3987.05,319.447,0.07417792233455636,Burkina Faso,Sub-Saharan Africa,Low income
+BFA,2019,7897.039,240.409,0.029543537482512948,Burkina Faso,Sub-Saharan Africa,Low income
+BGD,2006,45229.392,2127.198,0.0449187325354296,Bangladesh,South Asia,Lower middle income
+BGD,2010,51454.441,2629.086,0.04861158555728068,Bangladesh,South Asia,Lower middle income
+BGD,2013,55331.323,2741.614,0.04720983889621426,Bangladesh,South Asia,Lower middle income
+BGD,2017,58893.491,1934.12,0.03179674440937685,Bangladesh,South Asia,Lower middle income
+BHS,2019,166.723,44.094,0.20915770549813345,"Bahamas, The",Latin America & Caribbean,High income
+BIH,2001,504.03,495.489,0.49572744490099735,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2006,531.244,279.548,0.3447838656523498,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2007,593.917,255.653,0.30092046564732744,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2008,627.722,262.517,0.2948837334693268,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2009,609.79,249.427,0.2902956994565983,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2010,583.701,254.939,0.30399098540494135,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2011,557.586,258.45,0.3167139685013896,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2012,577.167,236.516,0.29067339492160954,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2013,560.974,260.626,0.31721762414800386,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2014,560.783,251.248,0.3094069068791709,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2015,572.963,248.549,0.30255066268052083,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2016,574.758,226.326,0.28252467905987383,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2017,582.654,233.005,0.2856647201833119,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2018,582.768,239.678,0.29142095651264643,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BIH,2019,587.122,215.734,0.2687082116842871,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BLZ,2014,119.98,13.824,0.1033152970015844,Belize,Latin America & Caribbean,Upper middle income
+BLZ,2015,122.501,16.185,0.11670247898129586,Belize,Latin America & Caribbean,Upper middle income
+BLZ,2016,129.682,15.392,0.10609757778788757,Belize,Latin America & Caribbean,Upper middle income
+BLZ,2017,132.401,16.756,0.1123380062618583,Belize,Latin America & Caribbean,Upper middle income
+BLZ,2018,138.411,17.18,0.1104176976817425,Belize,Latin America & Caribbean,Upper middle income
+BLZ,2019,151.836,14.42,0.08673371186603791,Belize,Latin America & Caribbean,Upper middle income
+BOL,2000,3129.349,268.669,0.07906638516923689,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2001,3242.802,286.707,0.08123141207459735,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2002,3289.115,266.9,0.07505592636701476,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2005,3625.545,313.026,0.07947704890936333,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2006,3817.996,366.258,0.08753244903392576,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2007,3936.032,401.756,0.09261771206891621,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2008,4164.801,412.591,0.0901366979275535,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2009,4264.82,460.38,0.09743079658003895,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2011,4326.329,469.517,0.09790076662178061,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2012,4209.503,483.801,0.10308324370209132,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2013,4398.085,547.619,0.11072619792854567,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2014,4589.371,492.963,0.09699539620969422,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2015,4455.408,443.38,0.09050810118747739,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2016,4390.223,461.25,0.09507421766543893,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2017,4600.448,438.461,0.08701506615817034,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2018,4929.762,436.222,0.08129394347802751,Bolivia,Latin America & Caribbean,Lower middle income
+BOL,2019,5143.784,478.321,0.08507863158016438,Bolivia,Latin America & Caribbean,Lower middle income
+BRA,2001,64915.344,8173.306,0.11182729466203029,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2002,67320.479,8466.859,0.11171864883286968,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2003,68410.077,8545.86,0.1110487420873064,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2004,72360.412,8928.431,0.10983587255633595,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2005,74304.764,9025.479,0.10830976455930892,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2006,75873.561,9407.755,0.11031437413559611,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2007,76853.355,9872.82,0.11383898805637399,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2008,79189.385,10010.844,0.11222890470382088,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2009,79358.178,10428.267,0.11614522659851383,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2011,79971.734,10959.475,0.12052490141201136,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2012,78363.173,10954.142,0.12264298361409542,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2013,79828.308,10942.293,0.12054886581614678,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2014,80798.316,11179.466,0.12154528796965336,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2015,80838.38,11123.55,0.12095820520513215,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2016,79280.001,10932.797,0.12118898030410274,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2017,79500.74,11002.889,0.12157400892731052,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2018,80795.082,11281.222,0.1225203609389013,Brazil,Latin America & Caribbean,Upper middle income
+BRA,2019,82762.847,11366.22,0.12075143589811636,Brazil,Latin America & Caribbean,Upper middle income
+BRB,2015,102.992,25.183,0.19647357128925297,Barbados,Latin America & Caribbean,High income
+BRB,2016,107.08,25.874,0.19460866164237253,Barbados,Latin America & Caribbean,High income
+BRB,2017,104.26,25.55,0.19682613049842076,Barbados,Latin America & Caribbean,High income
+BRB,2018,104.589,23.54,0.183721093585371,Barbados,Latin America & Caribbean,High income
+BRB,2019,103.581,21.418,0.1713453707629661,Barbados,Latin America & Caribbean,High income
+BRN,2014,102.142,88.694,0.46476555786120016,Brunei Darussalam,East Asia & Pacific,High income
+BRN,2017,111.308,75.578,0.4044069646736513,Brunei Darussalam,East Asia & Pacific,High income
+BRN,2018,125.625,76.118,0.37730181468502005,Brunei Darussalam,East Asia & Pacific,High income
+BRN,2019,146.053,75.658,0.3412460365069843,Brunei Darussalam,East Asia & Pacific,High income
+BTN,2018,246.354,54.088,0.18002809194453506,Bhutan,South Asia,Lower middle income
+BTN,2019,252.016,59.043,0.18981286508347292,Bhutan,South Asia,Lower middle income
+BWA,2006,392.114,134.956,0.2560494810935929,Botswana,Sub-Saharan Africa,Upper middle income
+BWA,2009,465.716,156.282,0.25125804263036217,Botswana,Sub-Saharan Africa,Upper middle income
+BWA,2019,652.962,161.594,0.19838292272108976,Botswana,Sub-Saharan Africa,Upper middle income
+CAN,2000,11961.754,2798.372,0.1895899804649364,Canada,North America,High income
+CAN,2001,12086.552,2845.749,0.19057672357394884,Canada,North America,High income
+CAN,2002,12391.033,2900.298,0.18966942772999945,Canada,North America,High income
+CAN,2003,12717.71,2943.127,0.1879290998303603,Canada,North America,High income
+CAN,2004,12876.85,3038.182,0.19090015024789142,Canada,North America,High income
+CAN,2005,13010.722,3112.788,0.19305895552519273,Canada,North America,High income
+CAN,2006,13274.413,3139.328,0.191262186968833,Canada,North America,High income
+CAN,2007,13547.466,3209.355,0.19152528991029982,Canada,North America,High income
+CAN,2008,13701.566,3295.276,0.1938757799831286,Canada,North America,High income
+CAN,2009,13407.988,3347.463,0.19978352119557988,Canada,North America,High income
+CAN,2010,13585.532,3392.709,0.19982688430444592,Canada,North America,High income
+CAN,2011,13840.592,3403.699,0.19738120865624453,Canada,North America,High income
+CAN,2012,14039.425,3436.202,0.1966282525943132,Canada,North America,High income
+CAN,2013,14232.233,3479.933,0.19647134065929597,Canada,North America,High income
+CAN,2014,14314.007,3469.178,0.19508192711260666,Canada,North America,High income
+CAN,2015,14370.924,3534.981,0.19741984557608228,Canada,North America,High income
+CAN,2016,14470.006,3538.623,0.19649596868256877,Canada,North America,High income
+CAN,2017,14787.592,3607.336,0.19610492631447102,Canada,North America,High income
+CAN,2018,15041.797,3681.461,0.1966250211368128,Canada,North America,High income
+CAN,2019,15353.594,3767.57,0.1970366448402409,Canada,North America,High income
+CHE,2000,3179.395,699.357,0.1803046443804605,Switzerland,Europe & Central Asia,High income
+CHE,2001,3308.729,629.45,0.15983275518964477,Switzerland,Europe & Central Asia,High income
+CHE,2002,3291.725,673.173,0.16978318231641773,Switzerland,Europe & Central Asia,High income
+CHE,2003,3255.99,707.038,0.1784085300431892,Switzerland,Europe & Central Asia,High income
+CHE,2004,3244.625,714.532,0.18047579320547277,Switzerland,Europe & Central Asia,High income
+CHE,2005,3235.796,738.692,0.18585840490649363,Switzerland,Europe & Central Asia,High income
+CHE,2006,3306.486,744.889,0.18386078800407268,Switzerland,Europe & Central Asia,High income
+CHE,2007,3383.634,738.406,0.17913605884464973,Switzerland,Europe & Central Asia,High income
+CHE,2008,3467.284,761.504,0.18007618258470273,Switzerland,Europe & Central Asia,High income
+CHE,2009,3492.666,775.359,0.18166693025462596,Switzerland,Europe & Central Asia,High income
+CHE,2010,3527.561,680.047,0.1616231835285036,Switzerland,Europe & Central Asia,High income
+CHE,2011,3598.37,699.685,0.1627910764287567,Switzerland,Europe & Central Asia,High income
+CHE,2012,3647.202,704.189,0.16183078008848203,Switzerland,Europe & Central Asia,High income
+CHE,2013,3715.513,677.458,0.15421408427235236,Switzerland,Europe & Central Asia,High income
+CHE,2014,3806.066,662.934,0.14834056835981202,Switzerland,Europe & Central Asia,High income
+CHE,2015,3833.044,705.354,0.15541915891907232,Switzerland,Europe & Central Asia,High income
+CHE,2016,3856.828,747.582,0.16236217018032711,Switzerland,Europe & Central Asia,High income
+CHE,2017,3875.006,761.734,0.1642822327756139,Switzerland,Europe & Central Asia,High income
+CHE,2018,3905.763,769.563,0.1646009283630703,Switzerland,Europe & Central Asia,High income
+CHE,2019,3920.516,785.268,0.16687293764439678,Switzerland,Europe & Central Asia,High income
+CHL,2000,4844.405,652.039,0.11862924465345231,Chile,Latin America & Caribbean,High income
+CHL,2003,5355.81,638.821,0.10656552505066617,Chile,Latin America & Caribbean,High income
+CHL,2006,5933.704,644.621,0.09799166201122626,Chile,Latin America & Caribbean,High income
+CHL,2009,5863.28,773.601,0.11656092673651977,Chile,Latin America & Caribbean,High income
+CHL,2010,6546.318,794.522,0.10823311773584494,Chile,Latin America & Caribbean,High income
+CHL,2011,6915.352,794.729,0.10307660840398435,Chile,Latin America & Caribbean,High income
+CHL,2012,7031.82,850.796,0.107933203900837,Chile,Latin America & Caribbean,High income
+CHL,2013,7190.032,855.022,0.10627921204755121,Chile,Latin America & Caribbean,High income
+CHL,2014,7249.666,910.111,0.11153625889531049,Chile,Latin America & Caribbean,High income
+CHL,2015,7360.588,941.428,0.11339751694046363,Chile,Latin America & Caribbean,High income
+CHL,2016,7484.227,916.078,0.1090529451013981,Chile,Latin America & Caribbean,High income
+CHL,2017,7627.74,976.906,0.11353238703835113,Chile,Latin America & Caribbean,High income
+CHL,2018,7751.459,1040.052,0.1183018482260899,Chile,Latin America & Caribbean,High income
+CHL,2019,7881.084,1099.382,0.12241925975778985,Chile,Latin America & Caribbean,High income
+CIV,2012,4434.631,207.596,0.0447190540229937,Côte d’Ivoire,Sub-Saharan Africa,Lower middle income
+CIV,2013,8582.09,423.679,0.0470452884145707,Côte d’Ivoire,Sub-Saharan Africa,Lower middle income
+CIV,2016,9075.506,400.821,0.04229708409175834,Côte d’Ivoire,Sub-Saharan Africa,Lower middle income
+CIV,2017,7319.457,384.824,0.04994937230352839,Côte d’Ivoire,Sub-Saharan Africa,Lower middle income
+CIV,2019,8802.915,339.156,0.037098377380792594,Côte d’Ivoire,Sub-Saharan Africa,Lower middle income
+CMR,2007,7809.587,384.296,0.04690035237261748,Cameroon,Sub-Saharan Africa,Lower middle income
+CMR,2014,7897.385,537.375,0.06370957798443583,Cameroon,Sub-Saharan Africa,Lower middle income
+COD,2005,18023.003,1094.76,0.05726402194650075,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income
+COD,2012,25012.224,2393.06,0.08732111661386176,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income
+COG,2005,1047.107,130.101,0.11051657820877873,"Congo, Rep.",Sub-Saharan Africa,Lower middle income
+COG,2009,815.151,212.104,0.2064764834437409,"Congo, Rep.",Sub-Saharan Africa,Lower middle income
+COK,2016,6.246,1.936,0.23661696406746516,,,
+COK,2019,5.575,2.436,0.3040818874048184,,,
+COL,2002,14562.448,1018.008,0.06533878084184443,Colombia,Latin America & Caribbean,Upper middle income
+COL,2003,15226.942,1030.903,0.06340957242488166,Colombia,Latin America & Caribbean,Upper middle income
+COL,2004,15337.732,1006.033,0.061554543888755135,Colombia,Latin America & Caribbean,Upper middle income
+COL,2005,15739.298,1032.32,0.0615516046215696,Colombia,Latin America & Caribbean,Upper middle income
+COL,2007,15952.156,976.457,0.0576808625727341,Colombia,Latin America & Caribbean,Upper middle income
+COL,2008,16370.448,909.949,0.052657875857828954,Colombia,Latin America & Caribbean,Upper middle income
+COL,2009,17357.78,833.661,0.04582710077777786,Colombia,Latin America & Caribbean,Upper middle income
+COL,2010,17785.879,788.897,0.042471413921761424,Colombia,Latin America & Caribbean,Upper middle income
+COL,2011,18412.908,796.789,0.04147847829145873,Colombia,Latin America & Caribbean,Upper middle income
+COL,2012,18947.753,819.206,0.041443198217793645,Colombia,Latin America & Caribbean,Upper middle income
+COL,2013,19171.787,834.629,0.041718066844156396,Colombia,Latin America & Caribbean,Upper middle income
+COL,2014,19639.772,839.621,0.04099833427680205,Colombia,Latin America & Caribbean,Upper middle income
+COL,2015,20019.276,840.708,0.04030242784462346,Colombia,Latin America & Caribbean,Upper middle income
+COL,2016,20065.152,865.71,0.04136045615321529,Colombia,Latin America & Caribbean,Upper middle income
+COL,2017,20294.646,830.509,0.03931374704706309,Colombia,Latin America & Caribbean,Upper middle income
+COL,2018,20424.611,847.094,0.03982257181547036,Colombia,Latin America & Caribbean,Upper middle income
+COL,2019,20461.178,848.635,0.03982367184545449,Colombia,Latin America & Caribbean,Upper middle income
+COM,2004,117.408,18.53,0.13631214230016628,Comoros,Sub-Saharan Africa,Lower middle income
+COM,2014,140.387,33.107,0.19082504294096625,Comoros,Sub-Saharan Africa,Lower middle income
+CPV,2009,67.213,72.228,0.5179825159027833,Cabo Verde,Sub-Saharan Africa,Lower middle income
+CPV,2015,92.412,27.834,0.23147547527568482,Cabo Verde,Sub-Saharan Africa,Lower middle income
+CRI,2001,1311.392,220.899,0.14416256442151,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2002,1343.654,220.666,0.14106193106269818,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2003,1398.349,227.652,0.14000729396845388,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2004,1408.844,232.606,0.14170763654086324,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2005,1510.47,251.146,0.14256568968492564,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2006,1547.471,264.803,0.14611642610333758,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2007,1646.292,266.732,0.1394295105550166,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2008,1674.138,276.146,0.1415927116255889,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2009,1644.724,305.29,0.1565578503538949,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2010,1599.398,308.109,0.16152444001516114,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2011,1592.04,305.279,0.16090019654048687,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2012,1742.365,319.451,0.15493671598241554,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2013,1774.629,322.834,0.15391642188682234,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2014,1833.766,311.769,0.1453106101741524,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2015,1841.672,296.12,0.13851674999251565,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2016,1778.169,294.713,0.14217548321612133,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2017,1825.708,292.623,0.1381384684452052,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2018,1933.335,268.442,0.12192061230542421,Costa Rica,Latin America & Caribbean,Upper middle income
+CRI,2019,1958.398,302.015,0.13361053931294856,Costa Rica,Latin America & Caribbean,Upper middle income
+DJI,2017,39.052,43.683,0.5279869462742491,Djibouti,Middle East & North Africa,Lower middle income
+DOM,2000,2701.414,349.379,0.11452071641701027,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2001,2642.484,367.782,0.12217591402221596,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2002,2734.114,382.744,0.12279802288073438,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2003,2703.144,391.725,0.12657240096430578,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2004,2809.326,367.842,0.11577669169524557,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2005,2860.896,377.158,0.11647674807152691,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2006,2965.63,405.066,0.12017280704044506,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2007,3049.085,410.49,0.11865330279008261,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2008,3138.876,415.503,0.11689890132706725,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2009,3034.593,447.233,0.12844783168371998,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2010,3142.606,483.056,0.13323249657579772,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2011,3271.169,488.773,0.12999482438824855,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2012,3317.942,522.618,0.1360785927052305,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2013,3357.784,511.368,0.13216539438099098,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2014,3467.414,548.168,0.13651022442076888,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2015,3564.88,549.009,0.13345255547731114,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2016,3681.436,580.984,0.13630378986585087,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2017,3785.443,597.214,0.13626756554300282,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2018,3897.966,641.29,0.14127645587735083,Dominican Republic,Latin America & Caribbean,Upper middle income
+DOM,2019,4027.403,635.865,0.1363560919080782,Dominican Republic,Latin America & Caribbean,Upper middle income
+ECU,2001,5223.898,422.024,0.07474846446691966,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2003,4838.488,463.477,0.08741608064179977,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2004,5157.221,463.25,0.08242191802074951,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2005,5410.362,440.287,0.075254386308254,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2006,5608.55,448.31,0.07401689984579468,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2007,5558.291,459.738,0.07639345041374841,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2008,5615.417,509.56,0.08319378178889487,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2009,5620.848,504.287,0.08233075679148295,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2010,5567.251,576.305,0.09380642090671916,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2011,5668.821,595.48,0.09505928913696836,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2012,5937.81,568.471,0.08737264806115812,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2013,6087.555,607.463,0.0907335872734024,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2014,6137.282,647.078,0.09537789857849523,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2015,6480.098,670.915,0.09382097333622523,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2016,6795.451,686.685,0.09177659962342304,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2017,7068.277,698.018,0.08987786325397117,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2018,7156.047,622.862,0.0800706114443555,Ecuador,Latin America & Caribbean,Upper middle income
+ECU,2019,7252.27,600.905,0.0765174594988651,Ecuador,Latin America & Caribbean,Upper middle income
+EGY,2008,16390.887,6116.425,0.27175279749087766,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+EGY,2009,16864.695,6110.597,0.2659638449861703,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+EGY,2010,17602.32,6226.684,0.26130693502758234,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+EGY,2011,17153.665,6192.146,0.2652358489495181,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+EGY,2012,17225.594,6338.799,0.2689990359607396,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+EGY,2013,17664.217,6310.913,0.263227477807211,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+EGY,2015,18892.614,5886.154,0.23754829134362127,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+EGY,2016,19738.021,5593.16,0.2208013909813364,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+EGY,2017,20494.151,5512.03,0.21195076662736445,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+EGY,2018,19950.302,6070.72,0.23330059826243565,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+EGY,2019,20447.138,5675.472,0.21726282327837837,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income
+ESP,2000,13088.846,2445.622,0.15743197642815962,Spain,Europe & Central Asia,High income
+ESP,2001,13653.195,2509.233,0.1552509932294826,Spain,Europe & Central Asia,High income
+ESP,2002,14170.774,2619.32,0.15600389134212114,Spain,Europe & Central Asia,High income
+ESP,2003,14739.618,2735.989,0.1565604559544055,Spain,Europe & Central Asia,High income
+ESP,2004,15301.099,2841.152,0.15660416119256645,Spain,Europe & Central Asia,High income
+ESP,2005,16289.904,2917.084,0.15187618173135733,Spain,Europe & Central Asia,High income
+ESP,2006,17007.578,2931.518,0.1470236163164067,Spain,Europe & Central Asia,High income
+ESP,2007,17610.298,2969.64,0.1442978108097313,Spain,Europe & Central Asia,High income
+ESP,2008,17462.99,3006.666,0.1468840512024237,Spain,Europe & Central Asia,High income
+ESP,2009,15987.926,3118.963,0.16323761550088037,Spain,Europe & Central Asia,High income
+ESP,2010,15514.878,3209.593,0.1714116783325948,Spain,Europe & Central Asia,High income
+ESP,2011,15144.361,3277.046,0.17789336069714978,Spain,Europe & Central Asia,High income
+ESP,2012,14520.31,3112.355,0.1765107543301027,Spain,Europe & Central Asia,High income
+ESP,2013,14201.652,2937.356,0.17138424814318307,Spain,Europe & Central Asia,High income
+ESP,2014,14418.387,2925.786,0.16868985335881967,Spain,Europe & Central Asia,High income
+ESP,2015,14891.013,2975.034,0.16651887236163657,Spain,Europe & Central Asia,High income
+ESP,2016,15340.724,3000.825,0.16360804640873025,Spain,Europe & Central Asia,High income
+ESP,2017,15796.186,3028.599,0.16088359043675665,Spain,Europe & Central Asia,High income
+ESP,2018,16177.173,3150.529,0.163005876228845,Spain,Europe & Central Asia,High income
+ESP,2019,16556.789,3222.523,0.16292391767721748,Spain,Europe & Central Asia,High income
+ETH,2005,25608.581,1130.973,0.042295881225244074,Ethiopia,Sub-Saharan Africa,Low income
+ETH,2013,33636.385,1861.614,0.052442786986387595,Ethiopia,Sub-Saharan Africa,Low income
+FJI,2016,279.766,47.298,0.14461389819729473,Fiji,East Asia & Pacific,Upper middle income
+FRA,2005,19461.794,5483.647,0.2198256186370888,France,Europe & Central Asia,High income
+FRA,2006,19715.296,5395.854,0.21487880881600407,France,Europe & Central Asia,High income
+FRA,2007,20072.857,5474.232,0.21428006924781137,France,Europe & Central Asia,High income
+FRA,2008,20653.91,5231.938,0.20211576611281964,France,Europe & Central Asia,High income
+FRA,2009,20471.696,5162.626,0.20139506712914038,France,Europe & Central Asia,High income
+FRA,2010,20559.762,5130.993,0.19972137837132467,France,Europe & Central Asia,High income
+FRA,2011,20686.189,5033.631,0.19571019548348317,France,Europe & Central Asia,High income
+FRA,2012,20722.334,5052.215,0.19601565094310672,France,Europe & Central Asia,High income
+FRA,2013,20454.689,5330.606,0.20673046401059209,France,Europe & Central Asia,High income
+FRA,2014,20789.581,5586.921,0.2118143262514491,France,Europe & Central Asia,High income
+FRA,2015,20970.888,5452.85,0.206361794837657,France,Europe & Central Asia,High income
+FRA,2016,21170.886,5412.953,0.20361818321274067,France,Europe & Central Asia,High income
+FRA,2017,21423.091,5380.022,0.20072377413772793,France,Europe & Central Asia,High income
+FRA,2018,21605.893,5416.18,0.2004353996083128,France,Europe & Central Asia,High income
+FRA,2019,21576.108,5556.624,0.20479412099010155,France,Europe & Central Asia,High income
+FSM,2014,27.302,8.284,0.2327881751250492,"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income
+GBR,2005,21819.647,6984.294,0.24247702770950683,United Kingdom,Europe & Central Asia,High income
+GBR,2006,22051.101,7045.945,0.24215327562804828,United Kingdom,Europe & Central Asia,High income
+GBR,2007,22355.282,6969.847,0.23767489650258655,United Kingdom,Europe & Central Asia,High income
+GBR,2008,22474.107,7088.569,0.23978103335435536,United Kingdom,Europe & Central Asia,High income
+GBR,2009,21818.862,7265.876,0.2498174815946425,United Kingdom,Europe & Central Asia,High income
+GBR,2010,21849.822,7288.766,0.2501413589429934,United Kingdom,Europe & Central Asia,High income
+GBR,2011,22185.963,7119.292,0.2429356782597524,United Kingdom,Europe & Central Asia,High income
+GBR,2012,22646.201,6916.001,0.2339474238082806,United Kingdom,Europe & Central Asia,High income
+GBR,2013,23062.029,6871.413,0.22955639381531867,United Kingdom,Europe & Central Asia,High income
+GBR,2014,23730.959,6922.486,0.22583060403161864,United Kingdom,Europe & Central Asia,High income
+GBR,2015,24262.296,6907.455,0.22160764133149477,United Kingdom,Europe & Central Asia,High income
+GBR,2016,24870.168,6825.956,0.21535617414924296,United Kingdom,Europe & Central Asia,High income
+GBR,2017,25167.74,6839.814,0.21369374242092976,United Kingdom,Europe & Central Asia,High income
+GBR,2018,25430.347,6977.644,0.21530628047878686,United Kingdom,Europe & Central Asia,High income
+GBR,2019,25943.004,6830.452,0.20841415076884173,United Kingdom,Europe & Central Asia,High income
+GEO,2009,1295.959,315.036,0.1955536795582854,Georgia,Europe & Central Asia,Upper middle income
+GEO,2010,1323.549,304.3,0.18693380037091895,Georgia,Europe & Central Asia,Upper middle income
+GEO,2011,1362.856,280.61,0.17074280818708756,Georgia,Europe & Central Asia,Upper middle income
+GEO,2012,1372.449,286.976,0.17293701131416,Georgia,Europe & Central Asia,Upper middle income
+GEO,2013,1391.338,252.064,0.1533793922606885,Georgia,Europe & Central Asia,Upper middle income
+GEO,2014,1435.57,258.842,0.15276213813405476,Georgia,Europe & Central Asia,Upper middle income
+GEO,2015,1447.241,286.565,0.1652808907109561,Georgia,Europe & Central Asia,Upper middle income
+GEO,2016,1445.382,271.904,0.15833355655377146,Georgia,Europe & Central Asia,Upper middle income
+GEO,2017,1422.832,283.808,0.16629634838044344,Georgia,Europe & Central Asia,Upper middle income
+GEO,2018,1394.375,299.827,0.17697240352685217,Georgia,Europe & Central Asia,Upper middle income
+GEO,2019,1390.503,299.666,0.1772994298203316,Georgia,Europe & Central Asia,Upper middle income
+GHA,2000,6885.1,536.8,0.07232649321602284,Ghana,Sub-Saharan Africa,Lower middle income
+GHA,2006,8602.439,537.375,0.05879496016002076,Ghana,Sub-Saharan Africa,Lower middle income
+GHA,2010,9559.39,650.74,0.06373474186910451,Ghana,Sub-Saharan Africa,Lower middle income
+GHA,2013,11326.011,712.698,0.05920053387784354,Ghana,Sub-Saharan Africa,Lower middle income
+GHA,2015,8154.94,695.105,0.0785425384842676,Ghana,Sub-Saharan Africa,Lower middle income
+GHA,2017,11327.625,778.681,0.06432028068677596,Ghana,Sub-Saharan Africa,Lower middle income
+GIN,2002,2955.376,112.504,0.03667157776705738,Guinea,Sub-Saharan Africa,Lower middle income
+GMB,2018,706.391,84.57,0.10692056877646305,"Gambia, The",Sub-Saharan Africa,Low income
+GNB,2018,498.193,29.285,0.05551890315804641,Guinea-Bissau,Sub-Saharan Africa,Low income
+GNB,2019,62.319,2.025,0.031471465870943675,Guinea-Bissau,Sub-Saharan Africa,Low income
+GRC,2000,3189.861,860.113,0.2123749436416135,Greece,Europe & Central Asia,High income
+GRC,2001,3278.644,884.991,0.21255249319404798,Greece,Europe & Central Asia,High income
+GRC,2002,3297.44,910.937,0.21645803120775536,Greece,Europe & Central Asia,High income
+GRC,2003,3361.755,924.537,0.2156962241489847,Greece,Europe & Central Asia,High income
+GRC,2004,3318.524,1003.399,0.23216494139298643,Greece,Europe & Central Asia,High income
+GRC,2005,3405.892,976.659,0.22285171353396688,Greece,Europe & Central Asia,High income
+GRC,2006,3470.856,1011.283,0.2256250865937,Greece,Europe & Central Asia,High income
+GRC,2007,3498.385,1018.099,0.22541848924960212,Greece,Europe & Central Asia,High income
+GRC,2008,3550.136,1019.792,0.22315274989015146,Greece,Europe & Central Asia,High income
+GRC,2009,3509.667,1000.941,0.22190822168541358,Greece,Europe & Central Asia,High income
+GRC,2010,3373.909,974.371,0.2240819358458977,Greece,Europe & Central Asia,High income
+GRC,2011,3097.589,917.964,0.22860213773794047,Greece,Europe & Central Asia,High income
+GRC,2012,2812.311,842.688,0.23055765541933115,Greece,Europe & Central Asia,High income
+GRC,2013,2669.94,811.626,0.2331209576380284,Greece,Europe & Central Asia,High income
+GRC,2014,2721.08,784.339,0.22375042755231261,Greece,Europe & Central Asia,High income
+GRC,2015,2806.361,774.496,0.2162878886255441,Greece,Europe & Central Asia,High income
+GRC,2016,2855.651,784.899,0.21559901663210232,Greece,Europe & Central Asia,High income
+GRC,2017,2921.474,800.359,0.21504430746892728,Greece,Europe & Central Asia,High income
+GRC,2018,2715.682,745.056,0.21528818419655002,Greece,Europe & Central Asia,High income
+GRC,2019,2762.921,777.812,0.219675417491237,Greece,Europe & Central Asia,High income
+GRD,2018,33.572,11.652,0.2576508048823633,Grenada,Latin America & Caribbean,Upper middle income
+GRD,2019,131.93,38.793,0.22722773147144787,Grenada,Latin America & Caribbean,Upper middle income
+GTM,2002,4152.168,197.282,0.045357918817321735,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2003,4191.759,231.703,0.05238046579805591,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2004,4257.733,191.345,0.04300778723142187,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2006,4664.073,272.715,0.05524138366889564,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2010,4914.194,293.491,0.05635728735512996,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2011,5019.558,327.777,0.061297263029153774,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2012,5734.378,321.448,0.053080785346210406,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2013,5404.562,361.574,0.06270646408617488,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2014,5667.482,392.603,0.06478506489595443,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2015,5855.13,385.755,0.061810945082308034,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2016,6069.479,405.105,0.0625684986093315,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2017,6260.747,427.219,0.06387876373773431,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2018,6489.401,426.142,0.06162090236442749,Guatemala,Latin America & Caribbean,Upper middle income
+GTM,2019,6629.272,475.716,0.0669552151249235,Guatemala,Latin America & Caribbean,Upper middle income
+GUY,2018,203.206,53.698,0.20901971164325975,Guyana,Latin America & Caribbean,High income
+GUY,2019,193.55,52.378,0.21298103509970398,Guyana,Latin America & Caribbean,High income
+HND,2005,2353.609,182.551,0.07197929152734843,Honduras,Latin America & Caribbean,Lower middle income
+HND,2006,2412.594,174.364,0.06740117156907843,Honduras,Latin America & Caribbean,Lower middle income
+HND,2007,2465.404,179.894,0.06800519260967952,Honduras,Latin America & Caribbean,Lower middle income
+HND,2008,2637.722,197.084,0.06952292326176818,Honduras,Latin America & Caribbean,Lower middle income
+HND,2009,2785.335,189.369,0.06365977925870943,Honduras,Latin America & Caribbean,Lower middle income
+HND,2010,2911.93,194.72,0.06267844784575025,Honduras,Latin America & Caribbean,Lower middle income
+HND,2011,2890.012,205.982,0.06653178268433337,Honduras,Latin America & Caribbean,Lower middle income
+HND,2012,2903.051,213.36,0.06846337020373758,Honduras,Latin America & Caribbean,Lower middle income
+HND,2013,3156.021,184.65,0.05527332682565868,Honduras,Latin America & Caribbean,Lower middle income
+HND,2014,3099.259,214.816,0.06481929346801144,Honduras,Latin America & Caribbean,Lower middle income
+HND,2015,3244.613,231.671,0.06664328921342445,Honduras,Latin America & Caribbean,Lower middle income
+HND,2016,3277.209,236.67,0.06735291681927578,Honduras,Latin America & Caribbean,Lower middle income
+HND,2017,3460.044,207.241,0.05651074296107339,Honduras,Latin America & Caribbean,Lower middle income
+HND,2018,3682.774,236.0,0.06022291665709735,Honduras,Latin America & Caribbean,Lower middle income
+HND,2019,3581.093,252.312,0.06581929120455575,Honduras,Latin America & Caribbean,Lower middle income
+HTI,2012,3678.317,187.986,0.04862164191476974,Haiti,Latin America & Caribbean,Lower middle income
+IDN,2016,109422.705,10107.13,0.08455738268190531,Indonesia,East Asia & Pacific,Upper middle income
+IDN,2019,121386.72,10509.228,0.07967817176612582,Indonesia,East Asia & Pacific,Upper middle income
+IND,2000,308934.855,18102.16,0.05535202184988144,India,South Asia,Lower middle income
+IRN,2005,15830.286,4016.834,0.20238875967898617,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2006,16279.682,3922.009,0.19414260915088744,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2007,16562.65,3959.024,0.1929191546459611,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2008,16288.412,3744.021,0.18689796691195723,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2009,16724.516,3822.347,0.18603068507343432,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2010,16747.673,3496.936,0.17273418320897183,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2011,16550.467,3558.24,0.17695021365620373,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2012,16774.719,3508.668,0.17298235250355376,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2013,17317.9,3635.261,0.17349463405545348,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2014,17393.828,3603.207,0.17160551477863423,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2015,18024.917,3655.635,0.1686135574407884,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2016,18429.058,3720.14,0.1679582258463715,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2017,19281.619,3730.036,0.1620933392231024,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2018,19739.214,3696.598,0.15773287479862017,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+IRN,2019,20459.837,3587.008,0.14916751033243653,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income
+ISR,2018,2562.766,1235.955,0.32536082539359956,Israel,Middle East & North Africa,High income
+ISR,2019,2639.016,1226.125,0.31722646081992867,Israel,Middle East & North Africa,High income
+JAM,2008,1016.902,145.148,0.12490684566068586,Jamaica,Latin America & Caribbean,Upper middle income
+JAM,2009,982.888,142.508,0.12662920429786495,Jamaica,Latin America & Caribbean,Upper middle income
+JAM,2010,956.819,138.071,0.1261049055156226,Jamaica,Latin America & Caribbean,Upper middle income
+JAM,2011,949.772,143.121,0.13095609542745723,Jamaica,Latin America & Caribbean,Upper middle income
+JAM,2012,942.337,144.412,0.13288441029161288,Jamaica,Latin America & Caribbean,Upper middle income
+JAM,2013,958.662,146.156,0.1322896621887044,Jamaica,Latin America & Caribbean,Upper middle income
+JAM,2014,982.07,145.871,0.1293250267522858,Jamaica,Latin America & Caribbean,Upper middle income
+JAM,2016,1029.1,144.215,0.12291243187038436,Jamaica,Latin America & Caribbean,Upper middle income
+JAM,2017,1057.349,145.6,0.12103588763945937,Jamaica,Latin America & Caribbean,Upper middle income
+JAM,2018,1067.42,147.634,0.12150406483991656,Jamaica,Latin America & Caribbean,Upper middle income
+JAM,2019,1086.302,158.458,0.1273000417751213,Jamaica,Latin America & Caribbean,Upper middle income
+JOR,2017,1499.752,619.897,0.29245266551207305,Jordan,Middle East & North Africa,Lower middle income
+JOR,2018,1546.99,602.76,0.2803860914059774,Jordan,Middle East & North Africa,Lower middle income
+JOR,2019,1706.133,588.932,0.2566079827804441,Jordan,Middle East & North Africa,Lower middle income
+JPN,2000,58413.361,5272.088,0.08278324299794133,Japan,East Asia & Pacific,High income
+JPN,2001,58152.028,5285.987,0.08332522699520153,Japan,East Asia & Pacific,High income
+JPN,2002,57312.111,5311.388,0.08481461567645718,Japan,East Asia & Pacific,High income
+JPN,2003,57071.2,5379.05,0.0861333621562764,Japan,East Asia & Pacific,High income
+JPN,2004,57027.228,5518.154,0.0882264017509718,Japan,East Asia & Pacific,High income
+JPN,2005,57436.919,5386.318,0.08573767060108667,Japan,East Asia & Pacific,High income
+JPN,2006,57817.827,5244.785,0.08316789986434435,Japan,East Asia & Pacific,High income
+JPN,2007,58286.629,5226.044,0.08228348380172883,Japan,East Asia & Pacific,High income
+JPN,2008,58403.152,4829.617,0.07637838855356785,Japan,East Asia & Pacific,High income
+JPN,2009,57402.925,4863.738,0.07811142858257877,Japan,East Asia & Pacific,High income
+JPN,2010,57156.205,4778.923,0.07716013762012407,Japan,East Asia & Pacific,High income
+JPN,2011,55928.249,4658.77,0.07689386401400604,Japan,East Asia & Pacific,High income
+JPN,2012,57341.641,4835.093,0.07776370177307801,Japan,East Asia & Pacific,High income
+JPN,2013,57667.237,4893.322,0.07821736375469407,Japan,East Asia & Pacific,High income
+JPN,2014,58028.001,4970.469,0.07889824943367674,Japan,East Asia & Pacific,High income
+JPN,2015,58313.518,4887.474,0.07733223554465728,Japan,East Asia & Pacific,High income
+JPN,2016,59089.982,4867.644,0.0761073276859901,Japan,East Asia & Pacific,High income
+JPN,2017,59929.09,4886.008,0.07538379406600604,Japan,East Asia & Pacific,High income
+JPN,2018,61202.137,4927.818,0.0745171836272987,Japan,East Asia & Pacific,High income
+JPN,2019,61701.634,5067.771,0.07589959802697058,Japan,East Asia & Pacific,High income
+KEN,2019,17747.583,976.957,0.05217522032583979,Kenya,Sub-Saharan Africa,Lower middle income
+KGZ,2012,1798.493,452.282,0.2009450078306361,Kyrgyz Republic,Europe & Central Asia,Lower middle income
+KGZ,2013,1767.087,417.378,0.19106646249768247,Kyrgyz Republic,Europe & Central Asia,Lower middle income
+KGZ,2014,1820.042,436.647,0.1934901087389534,Kyrgyz Republic,Europe & Central Asia,Lower middle income
+KGZ,2015,1864.139,461.17,0.1983263299630286,Kyrgyz Republic,Europe & Central Asia,Lower middle income
+KGZ,2017,1823.94,487.0,0.2107367564713926,Kyrgyz Republic,Europe & Central Asia,Lower middle income
+KGZ,2018,1879.539,490.28,0.2068849983901724,Kyrgyz Republic,Europe & Central Asia,Lower middle income
+KGZ,2019,1919.199,467.785,0.1959732448981644,Kyrgyz Republic,Europe & Central Asia,Lower middle income
+KHM,2003,6302.744,319.478,0.04824332376655449,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2007,6716.295,339.792,0.04815586882644728,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2008,6701.605,361.702,0.05120859110328915,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2009,7364.693,367.77,0.04756181827187534,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2010,7558.855,396.491,0.049839567003119666,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2011,7843.6,356.637,0.04349106007545879,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2012,6662.388,535.027,0.0743359942423773,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2013,7894.464,379.174,0.045829174542081734,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2014,8088.166,432.393,0.050747022583846904,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2015,8185.448,440.067,0.051019214504873046,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2016,8482.705,472.186,0.05272939670622456,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2017,8574.605,527.181,0.057920610306592575,Cambodia,East Asia & Pacific,Lower middle income
+KHM,2019,8141.984,569.921,0.06541864265048804,Cambodia,East Asia & Pacific,Lower middle income
+KIR,2019,13.183,12.065,0.4778596324461344,Kiribati,East Asia & Pacific,Lower middle income
+KOR,2019,23394.035,2823.333,0.10768941413188388,"Korea, Rep.",East Asia & Pacific,High income
+KOS,2000,435.227,80.239,0.15566303112135427,,,
+KOS,2012,207.598,109.045,0.3443783693307605,,,
+KOS,2013,235.973,106.08,0.31012737792096545,,,
+KOS,2014,224.489,100.795,0.3098676848538508,,,
+KOS,2015,202.476,96.334,0.3223921555503497,,,
+KOS,2016,234.895,99.262,0.29705198454618637,,,
+KOS,2017,259.557,100.585,0.2792926123584586,,,
+KOS,2018,260.898,106.082,0.2890675241157556,,,
+KOS,2019,273.238,99.194,0.2663412381320617,,,
+LAO,2010,2761.245,257.212,0.08521307409712976,Lao PDR,East Asia & Pacific,Lower middle income
+LAO,2017,2435.97,315.516,0.11467112680202626,Lao PDR,East Asia & Pacific,Lower middle income
+LBN,2019,1370.374,224.33,0.14067187390261768,Lebanon,Middle East & North Africa,Lower middle income
+LBR,2010,977.581,102.519,0.09491621146190168,Liberia,Sub-Saharan Africa,Low income
+LBR,2017,617.792,417.112,0.40304414708997166,Liberia,Sub-Saharan Africa,Low income
+LCA,2017,67.519,12.884,0.16024277701080805,St. Lucia,Latin America & Caribbean,Upper middle income
+LCA,2018,66.606,13.894,0.17259627329192548,St. Lucia,Latin America & Caribbean,Upper middle income
+LCA,2019,68.428,14.163,0.17148357569226672,St. Lucia,Latin America & Caribbean,Upper middle income
+LKA,2010,6596.34,1099.803,0.14290313992346557,Sri Lanka,South Asia,Lower middle income
+LKA,2011,6483.774,1107.63,0.145905816631548,Sri Lanka,South Asia,Lower middle income
+LKA,2013,6297.1,1162.592,0.1558498661875048,Sri Lanka,South Asia,Lower middle income
+LKA,2014,6298.326,1186.274,0.15849531037062767,Sri Lanka,South Asia,Lower middle income
+LKA,2015,6648.062,1182.914,0.15105575601304358,Sri Lanka,South Asia,Lower middle income
+LKA,2016,6790.025,1157.658,0.1456598105384928,Sri Lanka,South Asia,Lower middle income
+LKA,2017,7029.471,1178.708,0.1436016441649238,Sri Lanka,South Asia,Lower middle income
+LKA,2018,6856.692,1158.474,0.14453524730492168,Sri Lanka,South Asia,Lower middle income
+LKA,2019,6964.144,1216.549,0.14870977312068792,Sri Lanka,South Asia,Lower middle income
+LSO,2019,560.033,85.408,0.13232503048303407,Lesotho,Sub-Saharan Africa,Lower middle income
+MAR,2004,7676.0,1021.48,0.11744551295317725,Morocco,Middle East & North Africa,Lower middle income
+MAR,2014,8521.05,1043.68,0.10911756003567274,Morocco,Middle East & North Africa,Lower middle income
+MDA,2000,1127.351,387.226,0.2556661034731149,Moldova,Europe & Central Asia,Upper middle income
+MDA,2001,1154.296,344.683,0.22994518268768274,Moldova,Europe & Central Asia,Upper middle income
+MDA,2002,1168.285,336.832,0.22379124014943685,Moldova,Europe & Central Asia,Upper middle income
+MDA,2003,1201.786,327.88,0.21434744578228185,Moldova,Europe & Central Asia,Upper middle income
+MDA,2004,1153.664,333.011,0.22399717490372814,Moldova,Europe & Central Asia,Upper middle income
+MDA,2005,1165.402,337.51,0.2245707000809096,Moldova,Europe & Central Asia,Upper middle income
+MDA,2006,1292.517,338.865,0.20771652500763158,Moldova,Europe & Central Asia,Upper middle income
+MDA,2007,1351.261,326.533,0.19462043612028654,Moldova,Europe & Central Asia,Upper middle income
+MDA,2008,1385.859,330.321,0.1924745656050065,Moldova,Europe & Central Asia,Upper middle income
+MDA,2009,1411.748,329.292,0.18913522951798922,Moldova,Europe & Central Asia,Upper middle income
+MDA,2010,1500.837,324.489,0.17777043662337574,Moldova,Europe & Central Asia,Upper middle income
+MDA,2011,1540.662,323.873,0.17370175405664146,Moldova,Europe & Central Asia,Upper middle income
+MDA,2012,1568.585,321.475,0.17008719299916406,Moldova,Europe & Central Asia,Upper middle income
+MDA,2013,1595.607,316.466,0.16550937124262516,Moldova,Europe & Central Asia,Upper middle income
+MDA,2014,1354.713,253.526,0.1576419922660749,Moldova,Europe & Central Asia,Upper middle income
+MDA,2015,1350.761,258.57,0.16066924703494806,Moldova,Europe & Central Asia,Upper middle income
+MDA,2016,1354.796,236.547,0.14864614354039324,Moldova,Europe & Central Asia,Upper middle income
+MDA,2017,1282.302,241.817,0.15866018335838608,Moldova,Europe & Central Asia,Upper middle income
+MDA,2018,1244.516,225.735,0.1535350086481832,Moldova,Europe & Central Asia,Upper middle income
+MDA,2019,1229.585,255.862,0.17224579537337917,Moldova,Europe & Central Asia,Upper middle income
+MDG,2001,6659.685,297.957,0.04282442241207581,Madagascar,Sub-Saharan Africa,Low income
+MDG,2012,9911.584,298.44,0.029230097794089412,Madagascar,Sub-Saharan Africa,Low income
+MDG,2015,10601.168,450.629,0.040774274084115006,Madagascar,Sub-Saharan Africa,Low income
+MDV,2009,68.742,29.651,0.3013527385078207,Maldives,South Asia,Upper middle income
+MDV,2014,167.064,38.506,0.18731332392858882,Maldives,South Asia,Upper middle income
+MDV,2016,89.503,55.743,0.3837833744130647,Maldives,South Asia,Upper middle income
+MDV,2019,125.132,67.673,0.3509919348564612,Maldives,South Asia,Upper middle income
+MEX,2002,34477.893,4612.194,0.11798883947226826,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2003,35136.476,4671.658,0.11735435778024661,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2004,35931.488,4805.618,0.11796660273314458,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2005,36511.216,5567.92,0.13232020733505556,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2006,37611.139,5767.322,0.13295358726534812,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2007,38321.747,5909.501,0.13360466338186974,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2008,38933.022,6010.505,0.13373460876802126,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2009,39185.295,6250.046,0.13755913045750004,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2010,39916.407,6205.214,0.13454024089916528,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2011,40176.827,6182.616,0.13336260317018908,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2012,41573.66,6312.648,0.13182574025126345,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2013,42102.249,6309.617,0.1303320347123162,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2014,42433.348,6183.745,0.12719281673217278,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2015,43685.036,6143.469,0.12329226012299586,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2016,44781.341,6082.294,0.11958040356337095,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2017,45532.117,6148.162,0.1189653407250375,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2018,46897.752,6264.039,0.11782972097384756,Mexico,Latin America & Caribbean,Upper middle income
+MEX,2019,48333.108,6281.44,0.11501404351089749,Mexico,Latin America & Caribbean,Upper middle income
+MHL,2019,8.244,8.145,0.49697968149368477,Marshall Islands,East Asia & Pacific,Upper middle income
+MKD,2006,367.582,192.923,0.34419496703865265,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2007,404.3,183.08,0.3116891960911165,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2008,432.18,174.197,0.2872750780455064,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2009,458.455,166.218,0.26608801725062553,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2010,446.499,159.459,0.26315190161694374,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2011,479.736,161.428,0.2517733372428895,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2012,487.773,162.348,0.2497196675695755,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2013,521.695,157.231,0.23158783136895625,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2014,530.883,159.32,0.2308306396813691,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2015,545.901,157.791,0.22423304513906653,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2016,553.202,167.657,0.2325794642225456,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2017,564.713,169.884,0.23126149439760849,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2018,576.304,172.69,0.23056259462692627,North Macedonia,Europe & Central Asia,Upper middle income
+MKD,2019,609.545,182.993,0.23089492238857948,North Macedonia,Europe & Central Asia,Upper middle income
+MLI,2013,5434.653,150.999,0.027033370499988184,Mali,Sub-Saharan Africa,Low income
+MLI,2014,5575.692,153.815,0.026846114334095412,Mali,Sub-Saharan Africa,Low income
+MLI,2015,5646.009,177.87,0.030541499917838267,Mali,Sub-Saharan Africa,Low income
+MLI,2016,5284.146,173.632,0.031813679486413705,Mali,Sub-Saharan Africa,Low income
+MLI,2017,5833.978,177.663,0.029553161940308815,Mali,Sub-Saharan Africa,Low income
+MLI,2018,5759.634,189.303,0.03182131530389379,Mali,Sub-Saharan Africa,Low income
+MLI,2019,5255.665,244.806,0.044506370454457454,Mali,Sub-Saharan Africa,Low income
+MMR,2015,20416.184,1375.15,0.06310536105774892,Myanmar,East Asia & Pacific,Lower middle income
+MMR,2017,20835.948,1430.455,0.06424275173677581,Myanmar,East Asia & Pacific,Lower middle income
+MMR,2018,21709.136,1174.157,0.05131066582069285,Myanmar,East Asia & Pacific,Lower middle income
+MMR,2019,21339.051,1097.254,0.048905289886191146,Myanmar,East Asia & Pacific,Lower middle income
+MNE,2011,126.514,69.423,0.35431286587015215,Montenegro,Europe & Central Asia,Upper middle income
+MNE,2012,131.061,69.965,0.3480395570722195,Montenegro,Europe & Central Asia,Upper middle income
+MNE,2013,128.808,73.118,0.36210294860493447,Montenegro,Europe & Central Asia,Upper middle income
+MNE,2014,145.531,70.727,0.32704917274736656,Montenegro,Europe & Central Asia,Upper middle income
+MNE,2015,149.311,72.39,0.32652085466461583,Montenegro,Europe & Central Asia,Upper middle income
+MNE,2016,153.29,70.916,0.316298404146187,Montenegro,Europe & Central Asia,Upper middle income
+MNE,2017,154.086,75.202,0.32798053103520464,Montenegro,Europe & Central Asia,Upper middle income
+MNE,2018,162.316,75.112,0.31635695874117625,Montenegro,Europe & Central Asia,Upper middle income
+MNE,2019,172.291,71.501,0.29328690030845966,Montenegro,Europe & Central Asia,Upper middle income
+MNG,2003,647.18,215.376,0.24969509226067643,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2006,722.078,176.905,0.19678347643948774,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2008,694.116,205.685,0.22858943255230882,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2009,723.599,210.259,0.22515093301122865,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2010,799.856,233.852,0.2262263617965615,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2011,809.919,227.763,0.21949209873545075,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2012,817.284,239.157,0.22637989248808027,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2013,854.484,249.116,0.22573033707865167,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2014,860.703,249.995,0.2250791844407751,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2015,904.016,247.208,0.21473492560961205,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2016,891.253,256.591,0.2235417007886089,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2017,970.459,267.875,0.21631886066279374,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2018,988.143,264.88,0.2113927677305205,Mongolia,East Asia & Pacific,Upper middle income
+MNG,2019,987.853,302.744,0.23457671139790348,Mongolia,East Asia & Pacific,Upper middle income
+MOZ,2015,9398.537,432.079,0.0439523830449689,Mozambique,Sub-Saharan Africa,Low income
+MRT,2017,671.263,93.375,0.12211660942825232,Mauritania,Sub-Saharan Africa,Lower middle income
+MRT,2019,854.406,93.947,0.09906332346710561,Mauritania,Sub-Saharan Africa,Lower middle income
+MUS,2003,409.058,98.357,0.19383936225771806,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2004,392.27,94.44,0.19403751720737195,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2005,394.406,96.206,0.19609385828312392,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2006,390.848,93.403,0.19288137763267396,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2007,391.241,91.404,0.18938142941499445,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2008,403.568,90.091,0.182496419593282,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2009,407.783,93.009,0.18572381347944855,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2010,412.599,96.994,0.1903362094848242,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2011,412.159,93.606,0.1850780500825482,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2012,412.467,99.223,0.19391232973089176,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2013,429.467,96.209,0.18301957859974588,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2014,438.418,92.509,0.17424052647539115,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2015,444.973,93.438,0.1735440026299611,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2016,451.241,87.379,0.16222754446548587,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2017,450.722,94.412,0.17319044491813024,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2018,445.886,98.101,0.18033703011285193,Mauritius,Sub-Saharan Africa,Upper middle income
+MUS,2019,451.186,100.193,0.18171348564236214,Mauritius,Sub-Saharan Africa,Upper middle income
+MWI,2013,5787.799,366.451,0.05954437990006906,Malawi,Sub-Saharan Africa,Low income
+MYS,2000,6155.5,1032.75,0.14367196466455673,Malaysia,East Asia & Pacific,Upper middle income
+NAM,2012,511.298,111.205,0.17864170935722395,Namibia,Sub-Saharan Africa,Upper middle income
+NAM,2013,568.137,113.98,0.1670974334315081,Namibia,Sub-Saharan Africa,Upper middle income
+NAM,2014,574.094,131.271,0.18610364846568794,Namibia,Sub-Saharan Africa,Upper middle income
+NAM,2016,549.532,112.257,0.16962657282003782,Namibia,Sub-Saharan Africa,Upper middle income
+NAM,2018,604.95,117.762,0.16294457543253746,Namibia,Sub-Saharan Africa,Upper middle income
+NCL,2017,80.891,29.832,0.2694291159018451,New Caledonia,East Asia & Pacific,High income
+NCL,2018,92.566,14.404,0.13465457604935963,New Caledonia,East Asia & Pacific,High income
+NCL,2019,96.332,12.077,0.11140218985508583,New Caledonia,East Asia & Pacific,High income
+NER,2011,6030.778,143.645,0.02326452204521783,Niger,Sub-Saharan Africa,Low income
+NER,2012,3306.351,203.267,0.057917129442577514,Niger,Sub-Saharan Africa,Low income
+NER,2017,1936.369,189.316,0.08906117322180851,Niger,Sub-Saharan Africa,Low income
+NER,2019,7297.727,199.141,0.026563226136567964,Niger,Sub-Saharan Africa,Low income
+NGA,2011,49040.206,5756.613,0.10505378058532924,Nigeria,Sub-Saharan Africa,Lower middle income
+NGA,2013,53116.732,5232.286,0.0896722203619605,Nigeria,Sub-Saharan Africa,Lower middle income
+NGA,2019,61627.195,3885.03,0.05930236684832488,Nigeria,Sub-Saharan Africa,Lower middle income
+NIC,2001,1703.44,133.259,0.07255353217919756,Nicaragua,Latin America & Caribbean,Lower middle income
+NIC,2012,2677.91,239.245,0.08201312580236567,Nicaragua,Latin America & Caribbean,Lower middle income
+NIU,2015,0.878,0.049,0.05285868392664509,,,
+NIU,2017,0.217,0.431,0.6651234567901234,,,
+NPL,2017,6696.221,701.236,0.09479419751949894,Nepal,South Asia,Lower middle income
+NRU,2013,1.491,2.316,0.6083530338849488,Nauru,East Asia & Pacific,High income
+PAK,2005,30429.31,3037.588,0.09076395428103316,Pakistan,South Asia,Lower middle income
+PAK,2007,31413.548,3078.444,0.08925097744427171,Pakistan,South Asia,Lower middle income
+PAK,2009,44017.478,4193.792,0.08698779351798863,Pakistan,South Asia,Lower middle income
+PAK,2010,45318.938,4072.242,0.08244876919320414,Pakistan,South Asia,Lower middle income
+PAK,2011,47388.652,3993.502,0.07772157624999528,Pakistan,South Asia,Lower middle income
+PAK,2013,49335.655,4337.082,0.0808060524284424,Pakistan,South Asia,Lower middle income
+PAK,2014,50360.536,3980.265,0.07324634393961178,Pakistan,South Asia,Lower middle income
+PAK,2015,51153.198,4124.395,0.07461242026222091,Pakistan,South Asia,Lower middle income
+PAK,2018,55320.478,4473.315,0.07481236388532835,Pakistan,South Asia,Lower middle income
+PAK,2019,54623.18,4411.125,0.07472138445603789,Pakistan,South Asia,Lower middle income
+PAN,2003,985.678,171.267,0.14803383047595176,Panama,Latin America & Caribbean,High income
+PAN,2006,1104.291,190.145,0.14689409132626102,Panama,Latin America & Caribbean,High income
+PAN,2007,1153.611,203.037,0.1496607815734074,Panama,Latin America & Caribbean,High income
+PAN,2008,1194.637,204.189,0.14597169340575597,Panama,Latin America & Caribbean,High income
+PAN,2009,1226.404,214.238,0.14871008897422122,Panama,Latin America & Caribbean,High income
+PAN,2011,1291.223,246.791,0.16046082805488118,Panama,Latin America & Caribbean,High income
+PAN,2012,1369.607,247.297,0.1529447635728528,Panama,Latin America & Caribbean,High income
+PAN,2013,1419.706,252.646,0.15107226229884618,Panama,Latin America & Caribbean,High income
+PAN,2014,1437.158,258.048,0.15222220780247359,Panama,Latin America & Caribbean,High income
+PAN,2015,1460.388,273.141,0.1575635596520162,Panama,Latin America & Caribbean,High income
+PAN,2016,1491.768,279.016,0.15756636608417515,Panama,Latin America & Caribbean,High income
+PAN,2017,1492.125,293.625,0.16442671146577068,Panama,Latin America & Caribbean,High income
+PAN,2018,1573.835,293.648,0.15724266298541942,Panama,Latin America & Caribbean,High income
+PAN,2019,1626.479,293.398,0.15282124844456182,Panama,Latin America & Caribbean,High income
+PER,2000,3286.334,1020.832,0.23700781441904026,Peru,Latin America & Caribbean,Upper middle income
+PER,2001,3708.958,1041.538,0.21924826376024734,Peru,Latin America & Caribbean,Upper middle income
+PER,2002,12518.448,995.312,0.07365174459217864,Peru,Latin America & Caribbean,Upper middle income
+PER,2003,12832.524,930.045,0.06757786282488393,Peru,Latin America & Caribbean,Upper middle income
+PER,2004,12669.695,1100.568,0.07992352796747601,Peru,Latin America & Caribbean,Upper middle income
+PER,2005,12668.42,1072.0,0.07801799362756015,Peru,Latin America & Caribbean,Upper middle income
+PER,2006,13174.373,1136.445,0.07941160316622013,Peru,Latin America & Caribbean,Upper middle income
+PER,2007,13617.395,1280.059,0.08592468216381134,Peru,Latin America & Caribbean,Upper middle income
+PER,2008,14017.959,1295.4,0.08459280553665594,Peru,Latin America & Caribbean,Upper middle income
+PER,2009,14251.006,1364.254,0.08736671691665716,Peru,Latin America & Caribbean,Upper middle income
+PER,2010,14685.85,1375.417,0.08563564754885153,Peru,Latin America & Caribbean,Upper middle income
+PER,2011,14808.722,1426.016,0.08783732758730077,Peru,Latin America & Caribbean,Upper middle income
+PER,2012,15158.38,1499.058,0.0899933110962202,Peru,Latin America & Caribbean,Upper middle income
+PER,2013,15317.542,1464.121,0.08724528671562527,Peru,Latin America & Caribbean,Upper middle income
+PER,2014,15406.886,1483.018,0.08780499877323163,Peru,Latin America & Caribbean,Upper middle income
+PER,2015,15456.888,1470.968,0.0868962968494061,Peru,Latin America & Caribbean,Upper middle income
+PER,2016,15802.168,1502.165,0.08680860452697022,Peru,Latin America & Caribbean,Upper middle income
+PER,2017,16006.761,1473.056,0.084271820465855,Peru,Latin America & Caribbean,Upper middle income
+PER,2018,16316.967,1475.132,0.08290938578972609,Peru,Latin America & Caribbean,Upper middle income
+PER,2019,16540.723,1508.351,0.0835694396288696,Peru,Latin America & Caribbean,Upper middle income
+PHL,2012,34600.266,2999.936,0.07978510328215789,Philippines,East Asia & Pacific,Lower middle income
+PHL,2013,35081.091,3036.623,0.0796643523795787,Philippines,East Asia & Pacific,Lower middle income
+PHL,2014,35094.204,2998.862,0.07872461618080309,Philippines,East Asia & Pacific,Lower middle income
+PHL,2015,35903.81,3239.245,0.08275401600615996,Philippines,East Asia & Pacific,Lower middle income
+PHL,2016,37680.701,3317.267,0.08091296134481592,Philippines,East Asia & Pacific,Lower middle income
+PHL,2017,36945.63,3388.362,0.08400760331385002,Philippines,East Asia & Pacific,Lower middle income
+PHL,2018,37582.375,3574.16,0.08684307364553405,Philippines,East Asia & Pacific,Lower middle income
+PHL,2019,38559.34,3869.026,0.09118960650051902,Philippines,East Asia & Pacific,Lower middle income
+PLW,2014,5.269,3.553,0.4027431421446384,Palau,East Asia & Pacific,High income
+PNG,2010,1796.243,146.159,0.07524652466379256,Papua New Guinea,East Asia & Pacific,Lower middle income
+POL,2000,9040.826,5484.94,0.37760074064252447,Poland,Europe & Central Asia,High income
+POL,2001,10768.621,3437.913,0.24199519742113032,Poland,Europe & Central Asia,High income
+POL,2002,9303.894,4478.242,0.324930910564226,Poland,Europe & Central Asia,High income
+POL,2003,9229.313,4387.553,0.32221459769083427,Poland,Europe & Central Asia,High income
+POL,2004,9583.476,4211.577,0.30529618117451235,Poland,Europe & Central Asia,High income
+POL,2005,9891.858,4223.901,0.2992330061741632,Poland,Europe & Central Asia,High income
+POL,2006,10376.251,4290.823,0.292547988780857,Poland,Europe & Central Asia,High income
+POL,2007,11091.082,4240.692,0.27659499807393456,Poland,Europe & Central Asia,High income
+POL,2008,11619.001,4283.185,0.2693456736073896,Poland,Europe & Central Asia,High income
+POL,2009,11710.727,4238.497,0.2657494182789081,Poland,Europe & Central Asia,High income
+POL,2010,11517.304,4063.836,0.26081762951876436,Poland,Europe & Central Asia,High income
+POL,2011,11693.544,3975.308,0.25370767430823904,Poland,Europe & Central Asia,High income
+POL,2012,11778.353,3915.833,0.24950851226052756,Poland,Europe & Central Asia,High income
+POL,2013,11706.199,3918.603,0.2507937700586542,Poland,Europe & Central Asia,High income
+POL,2014,11977.96,3919.293,0.24653900897217906,Poland,Europe & Central Asia,High income
+POL,2015,12311.011,3844.232,0.2379556902981899,Poland,Europe & Central Asia,High income
+POL,2016,12444.955,3832.352,0.235441403175599,Poland,Europe & Central Asia,High income
+POL,2017,12606.765,3894.206,0.2359985966886434,Poland,Europe & Central Asia,High income
+POL,2018,12651.345,3906.233,0.23591813971826073,Poland,Europe & Central Asia,High income
+POL,2019,12651.799,3883.873,0.23487844945158562,Poland,Europe & Central Asia,High income
+PRY,2001,1942.166,154.03,0.07348072413075876,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2002,1921.464,175.982,0.08390299440367,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2003,2009.845,192.805,0.0875331986470842,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2004,2209.034,178.678,0.07483230808405704,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2005,2234.106,229.436,0.09313257090806651,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2006,2191.785,218.876,0.09079501431350157,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2007,2331.883,224.519,0.08782617131421427,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2008,2344.15,251.422,0.09686573903555748,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2009,2576.961,248.453,0.08793507783284149,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2010,2549.831,258.258,0.09196930724061808,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2011,2655.546,295.899,0.10025563749282132,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2012,2852.697,299.564,0.09503147106156502,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2013,2830.784,363.637,0.11383502675445721,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2014,2861.299,317.641,0.09992041372281327,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2015,2890.376,362.809,0.11152424470173077,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2016,2808.692,314.055,0.10057010702436028,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2017,2893.376,320.805,0.09980925156361761,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2018,2978.794,332.987,0.10054620157552689,Paraguay,Latin America & Caribbean,Upper middle income
+PRY,2019,3042.19,343.604,0.10148402413141497,Paraguay,Latin America & Caribbean,Upper middle income
+PSE,2009,512.242,202.597,0.2834162657605419,West Bank and Gaza,Middle East & North Africa,Lower middle income
+PSE,2010,538.136,201.029,0.27196769327552034,West Bank and Gaza,Middle East & North Africa,Lower middle income
+PSE,2011,615.967,212.288,0.25630753813740936,West Bank and Gaza,Middle East & North Africa,Lower middle income
+PSE,2012,629.28,215.522,0.25511539982149667,West Bank and Gaza,Middle East & North Africa,Lower middle income
+PSE,2013,644.124,222.171,0.25646113621803196,West Bank and Gaza,Middle East & North Africa,Lower middle income
+PSE,2014,665.109,227.112,0.2545467995037104,West Bank and Gaza,Middle East & North Africa,Lower middle income
+PSE,2015,700.77,228.095,0.24556313350163908,West Bank and Gaza,Middle East & North Africa,Lower middle income
+PSE,2016,715.382,224.246,0.23865402052727253,West Bank and Gaza,Middle East & North Africa,Lower middle income
+PSE,2017,725.874,222.858,0.2349008993055995,West Bank and Gaza,Middle East & North Africa,Lower middle income
+PSE,2018,732.168,223.592,0.233941575290868,West Bank and Gaza,Middle East & North Africa,Lower middle income
+PSE,2019,774.624,238.875,0.23569337512913185,West Bank and Gaza,Middle East & North Africa,Lower middle income
+RWA,2014,5352.465,134.198,0.024458947086781164,Rwanda,Sub-Saharan Africa,Low income
+RWA,2017,3492.102,246.237,0.06586802320495813,Rwanda,Sub-Saharan Africa,Low income
+RWA,2018,3669.688,241.174,0.06166773463241608,Rwanda,Sub-Saharan Africa,Low income
+RWA,2019,3678.626,229.571,0.05874089765689908,Rwanda,Sub-Saharan Africa,Low income
+SDN,2011,5880.641,1429.24,0.19552165076285102,Sudan,Sub-Saharan Africa,Low income
+SEN,2011,3878.877,180.581,0.04448401732448026,Senegal,Sub-Saharan Africa,Lower middle income
+SEN,2015,3144.759,273.135,0.07991324482268905,Senegal,Sub-Saharan Africa,Lower middle income
+SEN,2016,3453.85,268.799,0.07220637777023833,Senegal,Sub-Saharan Africa,Lower middle income
+SEN,2019,4326.753,293.782,0.06358181465999067,Senegal,Sub-Saharan Africa,Lower middle income
+SLB,2013,370.83,40.779,0.09907217772206148,Solomon Islands,East Asia & Pacific,Lower middle income
+SLE,2014,1551.309,82.608,0.050558259691281755,Sierra Leone,Sub-Saharan Africa,Low income
+SLE,2018,2431.978,137.981,0.05368996159082694,Sierra Leone,Sub-Saharan Africa,Low income
+SLV,2010,2205.202,193.038,0.08049152711988791,El Salvador,Latin America & Caribbean,Upper middle income
+SLV,2011,2272.011,194.223,0.07875286773274556,El Salvador,Latin America & Caribbean,Upper middle income
+SLV,2012,2351.083,208.232,0.08136239579731296,El Salvador,Latin America & Caribbean,Upper middle income
+SLV,2013,2409.977,219.53,0.08348713275910655,El Salvador,Latin America & Caribbean,Upper middle income
+SLV,2014,2420.767,223.315,0.08445842451179654,El Salvador,Latin America & Caribbean,Upper middle income
+SLV,2015,2463.261,203.771,0.07640365769889525,El Salvador,Latin America & Caribbean,Upper middle income
+SLV,2016,2532.632,194.385,0.07128118379900089,El Salvador,Latin America & Caribbean,Upper middle income
+SLV,2017,2554.265,197.829,0.07188308248192105,El Salvador,Latin America & Caribbean,Upper middle income
+SLV,2018,2597.027,217.239,0.07719206357892253,El Salvador,Latin America & Caribbean,Upper middle income
+SLV,2019,2685.852,222.268,0.07643013355707468,El Salvador,Latin America & Caribbean,Upper middle income
+SOM,2019,877.59,158.614,0.15307217497712808,Somalia,Sub-Saharan Africa,Low income
+SRB,2007,2066.655,897.669,0.3028241852105235,Serbia,Europe & Central Asia,Upper middle income
+SRB,2008,2132.595,689.129,0.2442226808858698,Serbia,Europe & Central Asia,Upper middle income
+SRB,2009,1902.676,713.52,0.2727318595395758,Serbia,Europe & Central Asia,Upper middle income
+SRB,2010,1695.81,701.103,0.29250248131659345,Serbia,Europe & Central Asia,Upper middle income
+SRB,2011,1572.462,680.747,0.30212332721909063,Serbia,Europe & Central Asia,Upper middle income
+SRB,2012,1531.626,696.397,0.31256275182078463,Serbia,Europe & Central Asia,Upper middle income
+SRB,2013,1595.387,715.33,0.3095705791752084,Serbia,Europe & Central Asia,Upper middle income
+SRB,2014,1795.252,763.75,0.2984561950322821,Serbia,Europe & Central Asia,Upper middle income
+SRB,2015,1844.331,729.828,0.28352094800670824,Serbia,Europe & Central Asia,Upper middle income
+SRB,2016,1993.123,726.28,0.26707332454954263,Serbia,Europe & Central Asia,Upper middle income
+SRB,2017,2059.234,735.424,0.26315348783285825,Serbia,Europe & Central Asia,Upper middle income
+SRB,2018,2099.689,732.147,0.2585414550842634,Serbia,Europe & Central Asia,Upper middle income
+SRB,2019,2172.504,727.461,0.25085164820954736,Serbia,Europe & Central Asia,Upper middle income
+STP,2017,16.154,4.901,0.23277131322726194,São Tomé and Príncipe,Sub-Saharan Africa,Lower middle income
+SUR,2016,138.938,50.743,0.267517568971062,Suriname,Latin America & Caribbean,Upper middle income
+SVK,2006,1634.458,668.287,0.2902132020697038,Slovak Republic,Europe & Central Asia,High income
+SVK,2007,1713.878,644.042,0.2731398860012214,Slovak Republic,Europe & Central Asia,High income
+SVK,2008,1794.463,639.588,0.26276688532820386,Slovak Republic,Europe & Central Asia,High income
+SVK,2009,1748.548,618.462,0.26128406724094955,Slovak Republic,Europe & Central Asia,High income
+SVK,2010,1711.025,607.566,0.2620410413048269,Slovak Republic,Europe & Central Asia,High income
+SVK,2011,1703.777,611.867,0.2642318940217062,Slovak Republic,Europe & Central Asia,High income
+SVK,2012,1695.252,633.813,0.272131949945579,Slovak Republic,Europe & Central Asia,High income
+SVK,2013,1696.295,633.264,0.27183857545569784,Slovak Republic,Europe & Central Asia,High income
+SVK,2014,1771.334,652.897,0.2693212816765399,Slovak Republic,Europe & Central Asia,High income
+SVK,2015,1769.574,655.316,0.2702456606279047,Slovak Republic,Europe & Central Asia,High income
+SVK,2016,1829.617,663.239,0.2660558812863639,Slovak Republic,Europe & Central Asia,High income
+SVK,2017,1856.63,674.653,0.2665261055362043,Slovak Republic,Europe & Central Asia,High income
+SVK,2018,1885.954,681.765,0.26551386658742643,Slovak Republic,Europe & Central Asia,High income
+SVK,2019,1888.244,695.252,0.2691128610224285,Slovak Republic,Europe & Central Asia,High income
+SWZ,2016,229.609,62.355,0.21357085120083297,Eswatini,Sub-Saharan Africa,Lower middle income
+SYC,2014,32.975,14.963,0.31213233760273684,Seychelles,Sub-Saharan Africa,High income
+SYC,2015,17.009,9.407,0.3561099333737129,Seychelles,Sub-Saharan Africa,High income
+SYC,2016,28.274,15.709,0.35716072118773157,Seychelles,Sub-Saharan Africa,High income
+SYC,2017,28.913,17.984,0.38347868733607693,Seychelles,Sub-Saharan Africa,High income
+SYC,2018,29.394,18.662,0.38833860496087896,Seychelles,Sub-Saharan Africa,High income
+SYC,2019,28.338,20.155,0.41562699771100986,Seychelles,Sub-Saharan Africa,High income
+TCD,2018,4149.601,147.335,0.034288385956877186,Chad,Sub-Saharan Africa,Low income
+TGO,2006,2299.686,105.767,0.04396968055497239,Togo,Sub-Saharan Africa,Low income
+TGO,2011,2573.363,98.648,0.036919009689705615,Togo,Sub-Saharan Africa,Low income
+TGO,2015,2721.053,116.534,0.04106799192412427,Togo,Sub-Saharan Africa,Low income
+TGO,2017,1981.769,132.858,0.06282810159900541,Togo,Sub-Saharan Africa,Low income
+TGO,2019,3128.483,105.224,0.03253974463363564,Togo,Sub-Saharan Africa,Low income
+THA,2000,29038.593,2670.926,0.08423104746558911,Thailand,East Asia & Pacific,Upper middle income
+THA,2007,31282.576,2940.468,0.08592070302104043,Thailand,East Asia & Pacific,Upper middle income
+THA,2010,34433.894,3603.449,0.09473450866428815,Thailand,East Asia & Pacific,Upper middle income
+THA,2013,33258.301,5312.147,0.1377258309263092,Thailand,East Asia & Pacific,Upper middle income
+THA,2014,34559.596,3517.832,0.09238628197261642,Thailand,East Asia & Pacific,Upper middle income
+THA,2015,34439.509,3576.66,0.09408259943288869,Thailand,East Asia & Pacific,Upper middle income
+THA,2016,34130.885,3561.766,0.09449497197742869,Thailand,East Asia & Pacific,Upper middle income
+THA,2017,33870.128,3588.126,0.09578999597792252,Thailand,East Asia & Pacific,Upper middle income
+THA,2018,34350.42,3514.13,0.09280791663970654,Thailand,East Asia & Pacific,Upper middle income
+THA,2019,34130.548,3482.89,0.09259695962916231,Thailand,East Asia & Pacific,Upper middle income
+TJK,2003,1354.146,725.809,0.34895418410494455,Tajikistan,Europe & Central Asia,Lower middle income
+TJK,2007,1292.936,563.913,0.30369351519698157,Tajikistan,Europe & Central Asia,Lower middle income
+TJK,2009,1443.727,511.07,0.2614440271803159,Tajikistan,Europe & Central Asia,Lower middle income
+TJK,2016,1270.667,500.419,0.28254923815105537,Tajikistan,Europe & Central Asia,Lower middle income
+TLS,2001,237.066,15.12,0.05995574694868073,Timor-Leste,East Asia & Pacific,Lower middle income
+TLS,2007,326.876,22.035,0.06315364089982832,Timor-Leste,East Asia & Pacific,Lower middle income
+TLS,2010,212.259,40.112,0.15894060728055126,Timor-Leste,East Asia & Pacific,Lower middle income
+TLS,2013,321.604,43.164,0.11833274848670937,Timor-Leste,East Asia & Pacific,Lower middle income
+TLS,2015,315.58,66.537,0.17412729608994107,Timor-Leste,East Asia & Pacific,Lower middle income
+TON,2016,30.578,5.405,0.15020982130450491,Tonga,East Asia & Pacific,Upper middle income
+TON,2018,23.496,9.716,0.2925448633024208,Tonga,East Asia & Pacific,Upper middle income
+TTO,2011,444.286,163.784,0.2693505681911622,Trinidad and Tobago,Latin America & Caribbean,High income
+TTO,2012,448.88,171.601,0.27656124845079866,Trinidad and Tobago,Latin America & Caribbean,High income
+TTO,2013,455.578,170.728,0.2725951851012125,Trinidad and Tobago,Latin America & Caribbean,High income
+TTO,2014,464.779,172.073,0.2701930746861123,Trinidad and Tobago,Latin America & Caribbean,High income
+TTO,2015,456.503,166.794,0.2675995552681948,Trinidad and Tobago,Latin America & Caribbean,High income
+TTO,2016,454.356,158.9,0.25910875719112414,Trinidad and Tobago,Latin America & Caribbean,High income
+TTO,2019,470.7,120.338,0.20360450597085128,Trinidad and Tobago,Latin America & Caribbean,High income
+TUN,2005,2232.803,693.89,0.23709012185425668,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2006,2326.987,677.906,0.2256007119055487,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2007,2400.326,684.867,0.22198513998962136,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2008,2468.369,686.98,0.21771918098441725,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2010,2584.021,693.375,0.21156277727805856,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2011,2444.135,695.636,0.2215562854743228,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2012,2506.479,725.118,0.2243837953804265,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2013,2559.691,755.592,0.22791176499864416,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2014,2266.825,694.254,0.23445980333520317,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2015,2619.171,767.166,0.2265474464000482,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2016,2635.458,782.123,0.2288528055370158,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2017,2706.413,751.691,0.2173708483030007,Tunisia,Middle East & North Africa,Lower middle income
+TUN,2019,2780.11,753.299,0.2131932646348045,Tunisia,Middle East & North Africa,Lower middle income
+TUR,2009,18601.335,2676.084,0.125771081539542,Türkiye,Europe & Central Asia,Upper middle income
+TUR,2010,19776.049,2818.202,0.12473093266070207,Türkiye,Europe & Central Asia,Upper middle income
+TUR,2011,21147.333,2963.142,0.1228985326917035,Türkiye,Europe & Central Asia,Upper middle income
+TUR,2012,21628.427,3192.325,0.12861516041093354,Türkiye,Europe & Central Asia,Upper middle income
+TUR,2013,22310.589,3213.052,0.12588533117199072,Türkiye,Europe & Central Asia,Upper middle income
+TUR,2014,22784.153,3148.437,0.12140850566796453,Türkiye,Europe & Central Asia,Upper middle income
+TUR,2015,23288.091,3332.46,0.12518373492719967,Türkiye,Europe & Central Asia,Upper middle income
+TUR,2016,23694.343,3510.818,0.1290497049438524,Türkiye,Europe & Central Asia,Upper middle income
+TUR,2017,24672.689,3516.205,0.12473724581035353,Türkiye,Europe & Central Asia,Upper middle income
+TUR,2018,24591.751,4145.81,0.14426450456251316,Türkiye,Europe & Central Asia,Upper middle income
+TUR,2019,23652.782,4426.912,0.15765527929186124,Türkiye,Europe & Central Asia,Upper middle income
+TUV,2016,2.333,1.736,0.42664045219955765,Tuvalu,East Asia & Pacific,Upper middle income
+TUV,2017,0.826,1.763,0.6809578988026265,Tuvalu,East Asia & Pacific,Upper middle income
+TZA,2001,14280.331,429.789,0.02921723276220724,Tanzania,Sub-Saharan Africa,Lower middle income
+TZA,2006,17319.863,624.694,0.03481245037144132,Tanzania,Sub-Saharan Africa,Lower middle income
+TZA,2008,3506.462,586.34,0.14326126697553412,Tanzania,Sub-Saharan Africa,Lower middle income
+TZA,2010,5517.972,664.614,0.1074977363840956,Tanzania,Sub-Saharan Africa,Lower middle income
+TZA,2012,5907.596,640.327,0.0977908567342652,Tanzania,Sub-Saharan Africa,Lower middle income
+TZA,2014,20328.815,831.65,0.039302066377085755,Tanzania,Sub-Saharan Africa,Lower middle income
+UGA,2010,3328.996,305.527,0.08406247532344684,Uganda,Sub-Saharan Africa,Low income
+UGA,2011,3631.626,382.399,0.09526572455328504,Uganda,Sub-Saharan Africa,Low income
+UGA,2012,10183.568,418.974,0.039516372583103185,Uganda,Sub-Saharan Africa,Low income
+UGA,2014,4350.326,500.055,0.10309602482774033,Uganda,Sub-Saharan Africa,Low income
+UGA,2017,13665.863,572.652,0.040218519979084905,Uganda,Sub-Saharan Africa,Low income
+UGA,2019,6896.674,706.418,0.0929119363543148,Uganda,Sub-Saharan Africa,Low income
+URY,2000,838.631,173.749,0.17162429127402754,Uruguay,Latin America & Caribbean,High income
+URY,2001,818.579,163.04,0.16609295459847456,Uruguay,Latin America & Caribbean,High income
+URY,2002,763.011,166.381,0.17902133868163272,Uruguay,Latin America & Caribbean,High income
+URY,2003,743.271,163.356,0.18017994169597862,Uruguay,Latin America & Caribbean,High income
+URY,2004,784.846,168.748,0.17696000604030646,Uruguay,Latin America & Caribbean,High income
+URY,2005,786.624,157.075,0.16644608079482967,Uruguay,Latin America & Caribbean,High income
+URY,2006,1097.673,203.934,0.1566786288027031,Uruguay,Latin America & Caribbean,High income
+URY,2007,1128.64,197.42,0.14887712471532205,Uruguay,Latin America & Caribbean,High income
+URY,2008,1161.056,202.702,0.1486348751024742,Uruguay,Latin America & Caribbean,High income
+URY,2009,1199.298,200.571,0.14327840676520445,Uruguay,Latin America & Caribbean,High income
+URY,2010,1335.741,223.061,0.14309771221745932,Uruguay,Latin America & Caribbean,High income
+URY,2011,1404.539,236.954,0.1443527325428741,Uruguay,Latin America & Caribbean,High income
+URY,2012,1331.272,231.374,0.14806552475736667,Uruguay,Latin America & Caribbean,High income
+URY,2013,1379.11,237.654,0.14699362430138227,Uruguay,Latin America & Caribbean,High income
+URY,2014,1407.68,246.098,0.14880957419919724,Uruguay,Latin America & Caribbean,High income
+URY,2015,1406.657,241.672,0.14661636117546922,Uruguay,Latin America & Caribbean,High income
+URY,2016,1398.174,246.974,0.15012266373602862,Uruguay,Latin America & Caribbean,High income
+URY,2017,1401.06,242.58,0.14758706286048043,Uruguay,Latin America & Caribbean,High income
+URY,2018,1390.832,244.891,0.14971422422989708,Uruguay,Latin America & Caribbean,High income
+URY,2019,1380.856,250.834,0.1537265044217958,Uruguay,Latin America & Caribbean,High income
+USA,2003,118035.215,19700.601,0.1430317950125623,United States,North America,High income
+USA,2004,119201.886,20050.088,0.14398422818767367,United States,North America,High income
+USA,2005,121316.621,20413.021,0.14402788796997032,United States,North America,High income
+USA,2006,124038.403,20388.672,0.1411693202261418,United States,North America,High income
+USA,2007,124993.758,21052.761,0.14415106326498614,United States,North America,High income
+USA,2008,124038.909,21323.477,0.14669184777965877,United States,North America,High income
+USA,2009,118649.4,21228.062,0.15176184709442328,United States,North America,High income
+USA,2010,118013.357,21050.611,0.15137358226395498,United States,North America,High income
+USA,2011,119303.569,20565.64,0.14703479162450972,United States,North America,High income
+USA,2012,122065.654,20403.442,0.1432131077746152,United States,North America,High income
+USA,2013,123643.336,20286.004,0.14094418830795724,United States,North America,High income
+USA,2014,126131.308,20174.027,0.13788989307874522,United States,North America,High income
+USA,2015,128196.907,20636.622,0.13865573260713315,United States,North America,High income
+USA,2016,130763.732,20672.182,0.13650779035150143,United States,North America,High income
+USA,2017,132451.217,20886.221,0.13621083847768475,United States,North America,High income
+USA,2018,134784.457,20976.592,0.134671614852825,United States,North America,High income
+USA,2019,136525.068,21013.0,0.13338363397982003,United States,North America,High income
+VEN,2005,8765.238,1639.474,0.15757033928473946,"Venezuela, RB",Latin America & Caribbean,
+VEN,2006,9181.896,1834.768,0.1665447906916286,"Venezuela, RB",Latin America & Caribbean,
+VEN,2007,9402.408,1947.624,0.17159634439797175,"Venezuela, RB",Latin America & Caribbean,
+VEN,2008,9609.302,2095.63,0.17903820372472048,"Venezuela, RB",Latin America & Caribbean,
+VEN,2009,9664.616,2262.809,0.18971479594296342,"Venezuela, RB",Latin America & Caribbean,
+VEN,2010,9718.146,2291.693,0.19081796183945515,"Venezuela, RB",Latin America & Caribbean,
+VEN,2011,9818.223,2419.155,0.19768572973720352,"Venezuela, RB",Latin America & Caribbean,
+VEN,2012,9883.144,2535.174,0.20414793694282915,"Venezuela, RB",Latin America & Caribbean,
+VEN,2016,10212.975,2822.516,0.21652548415706013,"Venezuela, RB",Latin America & Caribbean,
+VEN,2017,11465.851,3114.434,0.21360583829465613,"Venezuela, RB",Latin America & Caribbean,
+VNM,2007,40946.65,5073.584,0.11024681013138697,Vietnam,East Asia & Pacific,Lower middle income
+VNM,2009,43218.278,4793.672,0.09984330984265376,Vietnam,East Asia & Pacific,Lower middle income
+VNM,2010,44713.612,4780.084,0.09657965329564394,Vietnam,East Asia & Pacific,Lower middle income
+VNM,2011,45576.077,5305.103,0.1042645433930581,Vietnam,East Asia & Pacific,Lower middle income
+VNM,2012,46100.485,5321.956,0.10349481464716932,Vietnam,East Asia & Pacific,Lower middle income
+VNM,2013,46893.781,5314.296,0.10179068652538188,Vietnam,East Asia & Pacific,Lower middle income
+VNM,2014,47301.917,5452.48,0.10335593448257971,Vietnam,East Asia & Pacific,Lower middle income
+VNM,2015,47654.274,5185.153,0.09813037904442076,Vietnam,East Asia & Pacific,Lower middle income
+VNM,2016,48069.068,5233.687,0.09818792668408978,Vietnam,East Asia & Pacific,Lower middle income
+VNM,2017,48435.154,5268.209,0.09809830717677773,Vietnam,East Asia & Pacific,Lower middle income
+VNM,2018,49027.083,5222.654,0.0962705865283734,Vietnam,East Asia & Pacific,Lower middle income
+VNM,2019,46140.175,8434.133,0.1545440209704537,Vietnam,East Asia & Pacific,Lower middle income
+VUT,2006,77.148,5.372,0.0650993698497334,Vanuatu,East Asia & Pacific,Lower middle income
+VUT,2009,87.971,6.489,0.06869574423036205,Vanuatu,East Asia & Pacific,Lower middle income
+VUT,2010,87.516,7.599,0.07989276139410187,Vanuatu,East Asia & Pacific,Lower middle income
+VUT,2019,81.155,20.492,0.2015996537035033,Vanuatu,East Asia & Pacific,Lower middle income
+WLF,2018,1.793,1.66,0.4807413843035042,,,
+WLF,2019,2.4,1.853,0.43569245238655063,,,
+WSM,2012,26.119,8.411,0.24358528815522731,Samoa,East Asia & Pacific,Lower middle income
+WSM,2017,46.018,8.298,0.15277266367184622,Samoa,East Asia & Pacific,Lower middle income
+YEM,2014,3383.116,813.625,0.19387067250516532,"Yemen, Rep.",Middle East & North Africa,Low income
+ZAF,2000,8356.351,1999.946,0.19311400590384767,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2001,8618.036,1915.51,0.1818485436907951,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2002,8193.766,1836.731,0.18311465523592702,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2003,8295.444,1853.022,0.18259133942016456,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2004,8499.196,1850.652,0.17880958251754037,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2005,8962.26,1914.875,0.17604589811563431,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2006,9367.041,1857.17,0.16546107338858831,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2007,9688.749,2027.61,0.1730580293758496,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2008,12594.81,2152.453,0.1459561004642014,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2009,12133.168,2202.032,0.1536101344941124,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2010,11745.715,2196.729,0.15755695342939874,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2011,11907.292,2290.269,0.16131425672339073,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2012,12041.626,2508.96,0.17243016879182738,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2013,12427.515,2599.068,0.17296467200826698,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2014,12628.912,2687.936,0.17548884731375541,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2015,13125.816,2802.537,0.17594643966014564,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2016,13233.71,2733.868,0.17121369314745166,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2017,13514.837,2848.96,0.17410140201568133,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2018,13698.558,2911.206,0.17527076242624517,South Africa,Sub-Saharan Africa,Upper middle income
+ZAF,2019,13717.376,2853.604,0.1722049027878858,South Africa,Sub-Saharan Africa,Upper middle income
+ZMB,2015,3317.692,376.193,0.10184209849521574,Zambia,Sub-Saharan Africa,Lower middle income
+ZMB,2017,5077.036,341.92,0.06309702459292897,Zambia,Sub-Saharan Africa,Lower middle income
+ZMB,2018,4903.486,362.931,0.0689142162498716,Zambia,Sub-Saharan Africa,Lower middle income
+ZMB,2019,5101.625,357.721,0.06552451520749922,Zambia,Sub-Saharan Africa,Lower middle income
+ZWE,2011,5057.244,373.782,0.0688234598766421,Zimbabwe,Sub-Saharan Africa,Lower middle income
+ZWE,2014,5921.576,343.647,0.05484992313920829,Zimbabwe,Sub-Saharan Africa,Lower middle income
+ZWE,2019,4587.498,349.849,0.07085768936232353,Zimbabwe,Sub-Saharan Africa,Lower middle income
