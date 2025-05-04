@@ -136,6 +136,8 @@ The weak short-run causal effects also suggest that reforms aimed at expanding s
 
 Taken together, the results invite a more nuanced debate on optimal public sector size—one that balances fiscal constraints, governance goals, and development context.
 
+---
+
 ## Policy Implications
 
 Policymakers aiming to enhance governance should treat public sector size as a contextual lever—not a universal solution. In regions where governance outcomes remain weak despite small bureaucracies, the focus should shift toward building skilled, accountable, and mission-driven state capacity. Reforms that emphasize strategic recruitment, civil service professionalization, and performance-based incentives are more likely to deliver institutional improvements than expanding employment alone.
@@ -156,7 +158,6 @@ This project highlights the nuanced relationship between public employment and g
 
 Follow these steps to replicate the entire pipeline from raw data to final figures and regression outputs.
 
----
 
 ### Step 1: Clone the Repository
 
@@ -164,8 +165,6 @@ Follow these steps to replicate the entire pipeline from raw data to final figur
 git clone https://github.com/your-username/government-efficiency-project.git
 cd government-efficiency-project
 ```
-
----
 
 
 ### Step 2: Install Dependencies
@@ -177,7 +176,6 @@ pip install -r requirements.txt
 
 **Key libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `openpyxl`, `linearmodels`
 
----
 
 ### Step 3: Prepare Raw Data Files
 
@@ -192,7 +190,6 @@ pip install -r requirements.txt
 | `data/ILO Data.csv`      | ILO employment CSV                    |
 | `data/CLASS.xlsx`        | Country classification metadata       |
 
----
 
 ### Step 4: Run the Data Cleaning and Consolidation Script
 
@@ -207,7 +204,6 @@ This script will generate six cleaned datasets in total:
 
 All output files will be saved in the `Output/` directory and used for subsequent analysis.
 
----
 
 ### Step 5: Run the Analysis Script
 
@@ -219,7 +215,6 @@ This will generate:
 - Static figures in the `Figures/` directory  
 - Regression tables and outputs in the `Output/` directory
 
----
 
 ### Step 6: Review Outputs
 
