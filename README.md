@@ -123,6 +123,8 @@ This **dynamic HTML choropleth** tracks **governance effectiveness** from *2000 
 🔗 [Click here to view the interactive choropleth](https://mustafam93.github.io/govdata/government_effectiveness_over_time.html)  
 _(Opens in the same tab — right-click to open in a new one.)_
 
+---
+
 ## Discussion
 
 The analysis reveals that the relationship between public sector size and governance quality is highly heterogeneous and context-dependent. While regions like East Asia & Pacific show modest positive associations between bureaucratic scale and governance outcomes, cross-country panel regressions suggest that increasing public employment alone does not guarantee institutional improvement.
@@ -136,23 +138,22 @@ The weak short-run causal effects also suggest that reforms aimed at expanding s
 
 Taken together, the results invite a more nuanced debate on optimal public sector size—one that balances fiscal constraints, governance goals, and development context.
 
----
 
 ## Policy Implications
 
 Policymakers aiming to enhance governance should treat public sector size as a contextual lever—not a universal solution. In regions where governance outcomes remain weak despite small bureaucracies, the focus should shift toward building skilled, accountable, and mission-driven state capacity. Reforms that emphasize strategic recruitment, civil service professionalization, and performance-based incentives are more likely to deliver institutional improvements than expanding employment alone.
 
----
 
 ## Future Directions
 
 This study provides a cross-national foundation for understanding the bureaucratic determinants of governance, but deeper investigations remain essential. Future work could integrate subnational panel data to explore within-country variation, apply non-linear models to test for threshold effects, and adopt causal inference strategies—such as instrumental variables or difference-in-differences—to better isolate impact. Comparative case studies could also enrich the analysis by tracing how administrative capacity responds to political transitions, fiscal stress, or external shocks like pandemics and global recessions.
 
----
 
 ## Conclusion
 
 This project highlights the nuanced relationship between public employment and governance quality. While some regional trends suggest a positive association, the broader evidence points to a modest and inconsistent linkage. Expanding the public workforce alone does not guarantee stronger institutions. Instead, sustained improvements in governance are more likely to come from targeted investments in administrative quality, accountability mechanisms, and the broader institutional ecosystem in which bureaucracies operate.
+
+---
 
 ## How to Reproduce the Code
 
