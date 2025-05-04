@@ -65,6 +65,7 @@ The study proceeds through five core steps:
 ├── analysis.py
 ├── clean and build master panel.py
 ├── README.md
+├── government_effectiveness_over_time.html
 ├── requirements.txt
 ```
 
@@ -119,7 +120,8 @@ The **fixed-effects panel model** estimates the effect of **public sector size**
 #### 🗺️ Interactive Choropleth: Government Effectiveness Over Time
 This **dynamic HTML choropleth** tracks **governance effectiveness** from *2000 to 2019*. It highlights *rising scores* in parts of *East Asia* and *Latin America*, contrasted with *persistent challenges* in *Sub-Saharan Africa* and *South Asia*. These **spatial patterns** reinforce the **region-specific nature** of *institutional trajectories*.
 
-🔗 [Click here to view the interactive choropleth](Figures/government_effectiveness_over_time.html)
+🔗 [Click here to view the interactive choropleth](https://mustafam93.github.io/govdata/government_effectiveness_over_time.html)
+
 
 ## Discussion
 
