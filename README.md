@@ -15,13 +15,16 @@ This project investigates how the size of the public sector—measured by employ
 
 ## Analytical Framework and Objectives
 
-This repository presents a regionally focused analysis of how public sector scale—measured by government employment share—relates to governance quality and economic outcomes across 150+ countries from 2000 to 2019. Grounded in public administration theory and empirical governance research, the project uses descriptive, visual, and statistical tools to explore the temporal and structural dynamics of bureaucratic impact.
+This project investigates how public sector scale—measured by the share of government employment—relates to governance quality and economic outcomes across 150+ countries from 2000 to 2019. Anchored in development economics and public administration theory, the analysis leverages global datasets to explore how bureaucratic capacity interacts with institutional performance over time and across regions.
 
-- **Regional Trend Analysis** – Visualize longitudinal patterns in governance effectiveness and public employment share by World Bank region using WGI and ILO data.
-- **East Asia & Pacific Case Study** – Analyze the relationship between bureaucratic scale and both governance effectiveness and economic prosperity (logged GDP per capita).
-- **Bivariate Exploration** – Use scatter plots and regression lines to examine associations between public sector share and governance across selected regions.
-- **Panel Regressions** – Estimate two-way fixed-effects models (PanelOLS) with lagged predictors to test the impact of public sector size on governance quality over time.
-- **Interpretive Synthesis** – Assess the regional heterogeneity of results to inform debates on state capacity, bureaucratic reform, and institutional development.
+The study proceeds through five core steps:
+
+- **Regional Trend Analysis** – Visualize long-run patterns in governance effectiveness and public employment share using WGI and ILO data, disaggregated by World Bank region.
+- **East Asia & Pacific Case Study** – Focus on one high-performing region to examine how bureaucratic scale correlates with both governance scores and economic development (logged GDP per capita).
+- **Bivariate Exploration** – Use scatter plots and regression lines to assess associations between public employment share and governance outcomes across regional subsamples.
+- **Panel Regressions** – Estimate two-way fixed effects models (PanelOLS) with lagged predictors to quantify the relationship between public sector size and future changes in governance.
+- **Interpretive Synthesis** – Identify region-specific patterns and discuss implications for public sector reform, optimal government sizing, and institutional strengthening.
+
 
 ---
 
@@ -133,15 +136,19 @@ Taken together, the results invite a more nuanced debate on optimal public secto
 
 ## Policy Implications
 
-Policymakers seeking to strengthen governance should view public sector size not as an end in itself, but as a lever that depends on context and institutional quality. Rather than expanding bureaucracy indiscriminately, investments should focus on building competent, accountable, and mission-driven public workforces—particularly in regions where governance lags despite low employment shares. Strategic recruitment, civil service reform, and performance-based management may yield greater institutional dividends than changes in scale alone.
+Policymakers aiming to enhance governance should treat public sector size as a contextual lever—not a universal solution. In regions where governance outcomes remain weak despite small bureaucracies, the focus should shift toward building skilled, accountable, and mission-driven state capacity. Reforms that emphasize strategic recruitment, civil service professionalization, and performance-based incentives are more likely to deliver institutional improvements than expanding employment alone.
+
+---
 
 ## Future Directions
 
-This project offers a foundational view of how public sector size relates to governance effectiveness across regions, but several extensions remain possible. Future work could incorporate subnational data to assess within-country variation, explore non-linear or threshold dynamics using interaction terms, and apply causal inference techniques such as instrumental variables or event studies. In addition, comparative case studies could illuminate how administrative capacity evolves over time in relation to political regimes, fiscal constraints, or external shocks such as pandemics or debt crises.
+This study provides a cross-national foundation for understanding the bureaucratic determinants of governance, but deeper investigations remain essential. Future work could integrate subnational panel data to explore within-country variation, apply non-linear models to test for threshold effects, and adopt causal inference strategies—such as instrumental variables or difference-in-differences—to better isolate impact. Comparative case studies could also enrich the analysis by tracing how administrative capacity responds to political transitions, fiscal stress, or external shocks like pandemics and global recessions.
+
+---
 
 ## Conclusion
 
-This project underscores the complexity of the relationship between public sector scale and governance quality. While some regions exhibit modest positive associations, the broader empirical evidence suggests that bureaucratic expansion alone is not a reliable pathway to stronger institutions. Effective governance appears to depend not just on the size of the state, but on how public resources are structured, managed, and held accountable. These findings call for deeper, context-aware reforms aimed at building capable and responsive state institutions.
+This project highlights the nuanced relationship between public employment and governance quality. While some regional trends suggest a positive association, the broader evidence points to a modest and inconsistent linkage. Expanding the public workforce alone does not guarantee stronger institutions. Instead, sustained improvements in governance are more likely to come from targeted investments in administrative quality, accountability mechanisms, and the broader institutional ecosystem in which bureaucracies operate.
 
 ## How to Reproduce the Code
 
