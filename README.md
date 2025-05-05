@@ -163,7 +163,7 @@ Follow these steps to replicate the entire pipeline from raw data to final figur
 ### Step 1: Clone the Repository
 
 ```bash
-git clone git clone https://github.com/MustafaM93/govdata.git
+git clone https://github.com/MustafaM93/govdata.git
 cd govdata
 ```
 
