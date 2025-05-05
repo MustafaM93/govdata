@@ -7,10 +7,10 @@ This project investigates how the size of the public sector—measured by employ
 ---
 
 ## Key Research Questions
-- **RQ1**: How does public sector employment share relate to governance effectiveness across global regions?
-- **RQ2**: What lag structure best captures the temporal impact of public sector size on subsequent changes in governance quality?
-- **RQ3**: Within the East Asia & Pacific region, how is bureaucratic scale associated with governance effectiveness and economic performance?
-- **RQ4**: Are the effects of public sector size on governance nonlinear or context-dependent across regions with varying institutional capacity?
+- **Q1**: How does public sector employment share relate to governance effectiveness across global regions?
+- **Q2**: What lag structure best captures the temporal impact of public sector size on subsequent changes in governance quality?
+- **Q3**: Within the East Asia & Pacific region, how is bureaucratic scale associated with governance effectiveness and economic performance?
+- **Q4**: Are the effects of public sector size on governance nonlinear or context-dependent across regions with varying institutional capacity?
 ---
 
 ## Analytical Framework and Objectives
