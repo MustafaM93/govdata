@@ -164,7 +164,7 @@ Follow these steps to replicate the entire pipeline from raw data to final figur
 
 ```bash
 git clone git clone https://github.com/MustafaM93/govdata.git
-cd government-efficiency-project
+cd govdata
 ```
 
 
